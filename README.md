@@ -213,8 +213,8 @@ The generated SPARQL is then executed on the RDF graph.
 ## 1) Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_NAME>
+git clone https://github.com/Bvder92/Projet-chatbot-fifa
+cd Projet-chatbot-fifa
 ```
 
 If you created the repo manually on GitHub and already have the folder locally:
@@ -225,7 +225,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin <YOUR_REPOSITORY_URL>
+git remote add origin https://github.com/Bvder92/Projet-chatbot-fifa
 git push -u origin main
 ```
 
@@ -491,8 +491,8 @@ If the project specifically requires another model, adapt accordingly.
 ## Example End-to-End Setup
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_NAME>
+git clone https://github.com/Bvder92/Projet-chatbot-fifa
+cd Projet-chatbot-fifa
 
 python3 -m venv .venv
 source .venv/bin/activate
@@ -518,35 +518,6 @@ Then:
 ```bash
 python Notebook/Lab6_rag_sparql_gen.py
 ```
-
----
-
-## Troubleshooting
-
-## Commit failed when uploading to GitHub
-If GitHub Desktop or Git reports `commit failed`, check:
-
-```bash
-git status
-git config user.name
-git config user.email
-```
-
-If needed:
-
-```bash
-git config --global user.name "Your Name"
-git config --global user.email "your@email.com"
-```
-
-If you want to restart Git tracking completely:
-
-```bash
-rm -rf .git
-git init
-```
-
----
 
 ## Ollama does not answer
 Check that the service is running:
