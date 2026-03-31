@@ -5,7 +5,7 @@ Domain: Football / FIFA
 pip install -r requirements.txt
 
 ## Run RAG demo
-cd src/rag
+cd Notebook/
 python lab_rag_sparql_gen.py
 
 ## Run evaluation
