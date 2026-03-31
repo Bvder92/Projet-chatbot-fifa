@@ -1,0 +1,47 @@
+[
+  {
+    "Q": "Q1",
+    "Question": "Which organizations are in the knowledge base?",
+    "Baseline": "I'm not sure what a \"knowledge base\" is, but I can try to provide some general information on organizations that may be part of one. A knowledge base is typically a repository of information, ideas, a",
+    "RAG_LLM": "[ERROR] Expected {SelectQuery | ConstructQuery | DescribeQuery | AskQuery}, found 'EXAFI'  (at char 0), (line:1, col:1)",
+    "Gold": "15 row(s) — http://example.org/fifa/espn_inc | ESPN, Inc.",
+    "Correct_LLM": "No",
+    "Repaired": true
+  },
+  {
+    "Q": "Q2",
+    "Question": "Which persons are mentioned in the FIFA knowledge base?",
+    "Baseline": "I don't have access to a search engine or the ability to look up specific information about individuals. However, I can tell you that the FIFA knowledge base is likely a large database of information",
+    "RAG_LLM": "[ERROR] Expected SelectQuery, found 'ex'  (at char 25), (line:2, col:3)",
+    "Gold": "15 row(s) — http://example.org/fifa/andrew | Andrew",
+    "Correct_LLM": "No",
+    "Repaired": true
+  },
+  {
+    "Q": "Q3",
+    "Question": "Which places are referenced in the knowledge base?",
+    "Baseline": "I can provide information on a wide range of topics, including places. Can you please specify which specific places you would like to know more about? I'll do my best to provide a brief overview or a",
+    "RAG_LLM": "[ERROR] Expected {SelectQuery | ConstructQuery | DescribeQuery | AskQuery}, found 'EXTRACT'  (at char 0), (line:1, col:1)",
+    "Gold": "15 row(s) — http://example.org/fifa/north_berwick | North Berwick",
+    "Correct_LLM": "No",
+    "Repaired": true
+  },
+  {
+    "Q": "Q4",
+    "Question": "What is FIFA linked to in the knowledge base?",
+    "Baseline": "In the knowledge base, FIFA (Fédération Internationale de Football Association) is linked to several topics and concepts. Here are a few examples:\n\n1. **Football**: The most obvious connection is that",
+    "RAG_LLM": "[ERROR] Expected {SelectQuery | ConstructQuery | DescribeQuery | AskQuery}, found 'EX'  (at char 0), (line:1, col:1)",
+    "Gold": "15 row(s) — http://example.org/fifa/indict | http://example.org/fifa/the_united_states_department_of_justice",
+    "Correct_LLM": "No",
+    "Repaired": true
+  },
+  {
+    "Q": "Q5",
+    "Question": "Which entities are linked to London?",
+    "Baseline": "London is a major global city with numerous interconnected entities. Here are some of the key ones:\n\n1. **Government**: The United Kingdom (UK) Parliament, the House of Commons, and the House of Lords",
+    "RAG_LLM": "[ERROR] Expected {SelectQuery | ConstructQuery | DescribeQuery | AskQuery}, found 'SKOS'  (at char 0), (line:1, col:1)",
+    "Gold": "11 row(s) — http://example.org/fifa/fifa | http://example.org/fifa/exclude",
+    "Correct_LLM": "No",
+    "Repaired": true
+  }
+]

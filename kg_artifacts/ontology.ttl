@@ -1,0 +1,3684 @@
+@prefix ex: <http://example.org/fifa/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ex: a owl:ObjectProperty .
+
+ex:8 a owl:ObjectProperty .
+
+ex:a_b_monioudis a ex:Person .
+
+ex:a_continental_national_association a ex:Organization .
+
+ex:a_league a ex:Organization .
+
+ex:aafa a ex:Organization .
+
+ex:aaron_hughes a ex:Person .
+
+ex:abc_news a ex:Organization .
+
+ex:abc_sport a ex:Organization .
+
+ex:aberdeen a ex:Place .
+
+ex:aberystwyth a ex:Place .
+
+ex:acak a ex:Person .
+
+ex:accept a owl:ObjectProperty .
+
+ex:accord a owl:ObjectProperty .
+
+ex:accuse a owl:ObjectProperty .
+
+ex:act a owl:ObjectProperty .
+
+ex:adam a ex:Person .
+
+ex:adamu a ex:Person .
+
+ex:add a owl:ObjectProperty .
+
+ex:adelaide_united27 a ex:Organization .
+
+ex:adidas a ex:Organization .
+
+ex:administer a owl:ObjectProperty .
+
+ex:admit a owl:ObjectProperty .
+
+ex:adopt a owl:ObjectProperty .
+
+ex:adrian a ex:Person .
+
+ex:advance a owl:ObjectProperty .
+
+ex:advanced_television a ex:Organization .
+
+ex:afa_senior_male_league a ex:Organization .
+
+ex:afc a ex:Organization .
+
+ex:afc_ajax a ex:Organization .
+
+ex:afp a ex:Organization .
+
+ex:africa a ex:Place .
+
+ex:afrikansoccercom a ex:Organization .
+
+ex:agence_france_presse a ex:Organization .
+
+ex:agm a ex:Organization .
+
+ex:agree a owl:ObjectProperty .
+
+ex:agüero a ex:Person .
+
+ex:ajax a ex:Organization .
+
+ex:akbar_paudie a ex:Person .
+
+ex:al_jazeera a ex:Organization .
+
+ex:alagoas a ex:Place .
+
+ex:alan_ferguson a ex:Person .
+
+ex:albania a ex:Place .
+
+ex:albanian_superliga a ex:Organization .
+
+ex:alcock a ex:Person .
+
+ex:aleksander_čeferin a ex:Person .
+
+ex:aleksander_čeferin3 a ex:Person .
+
+ex:alex a ex:Person .
+
+ex:alexandra_hotel a ex:Organization .
+
+ex:alexandra_wrage a ex:Person .
+
+ex:alexis_bernier_zen a ex:Person .
+
+ex:algerian_womens_d1_national_championship a ex:Organization .
+
+ex:allege a owl:ObjectProperty .
+
+ex:allen_chapman a ex:Person .
+
+ex:allow a owl:ObjectProperty .
+
+ex:alon a ex:Person .
+
+ex:alvarez a ex:Person .
+
+ex:amazonas a ex:Place .
+
+ex:amend a owl:ObjectProperty .
+
+ex:american_youth_soccer_organization a ex:Organization .
+
+ex:ames a ex:Person .
+
+ex:amos_adamu a ex:Person .
+
+ex:amsterdam a ex:Place .
+
+ex:analyse a owl:ObjectProperty .
+
+ex:anderson a ex:Person .
+
+ex:andertons_hotel a ex:Organization .
+
+ex:andorra a ex:Place .
+
+ex:andres_cunha a ex:Person .
+
+ex:andrew a ex:Person .
+
+ex:andrew_jennings a ex:Person .
+
+ex:andré a ex:Person .
+
+ex:andrés_guardado a ex:Person .
+
+ex:andy_anson a ex:Person .
+
+ex:andy_burnham a ex:Person .
+
+ex:anfp a ex:Organization .
+
+ex:announce a owl:ObjectProperty .
+
+ex:anouma a ex:Person .
+
+ex:anouma129 a ex:Person .
+
+ex:antonio_carbajal a ex:Person .
+
+ex:aolradioblog a ex:Organization .
+
+ex:appeal a owl:ObjectProperty .
+
+ex:appeal_committee142 a ex:Organization .
+
+ex:appear a owl:ObjectProperty .
+
+ex:applied_sciences a ex:Organization .
+
+ex:appoint a owl:ObjectProperty .
+
+ex:approve a owl:ObjectProperty .
+
+ex:apuzzo a ex:Person .
+
+ex:aramco a ex:Organization .
+
+ex:archive a owl:ObjectProperty .
+
+ex:argentina a ex:Place .
+
+ex:arizona_daily_star a ex:Organization .
+
+ex:arm a ex:Place .
+
+ex:armand_duka a ex:Person .
+
+ex:armenia a ex:Place .
+
+ex:arrest a owl:ObjectProperty .
+
+ex:arrow_books a ex:Organization .
+
+ex:arsenal a ex:Organization .
+
+ex:arsène_wenger a ex:Person .
+
+ex:artemio_franchi a ex:Person .
+
+ex:arthur_drewry a ex:Person .
+
+ex:arthur_pember a ex:Person .
+
+ex:aruban_division_di_honor a ex:Organization .
+
+ex:arup a ex:Organization .
+
+ex:as_monaco a ex:Organization .
+
+ex:ashley a ex:Person .
+
+ex:asian_football_confederation a ex:Organization .
+
+ex:ask a owl:ObjectProperty .
+
+ex:aspire a owl:ObjectProperty .
+
+ex:assist a owl:ObjectProperty .
+
+ex:associated_press a ex:Organization .
+
+ex:association_football a ex:Organization .
+
+ex:association_the_football a ex:Organization .
+
+ex:assuntos_jurídicos a ex:Person .
+
+ex:athens a ex:Place .
+
+ex:atlanta a ex:Place .
+
+ex:atlantic_council a ex:Organization .
+
+ex:atlético_nacional a ex:Organization .
+
+ex:auchterarder a ex:Organization .
+
+ex:austin a ex:Person .
+
+ex:australia a ex:Place .
+
+ex:australian_broadcasting_corporation a ex:Organization .
+
+ex:australian_professional_leagues a ex:Organization .
+
+ex:austria a ex:Place .
+
+ex:austrian_football_union a ex:Organization .
+
+ex:aut a ex:Organization .
+
+ex:avoid a owl:ObjectProperty .
+
+ex:award a owl:ObjectProperty .
+
+ex:axel_touret_vatira a ex:Person .
+
+ex:ayon a ex:Person .
+
+ex:ayr a ex:Place .
+
+ex:ayrshire a ex:Place .
+
+ex:azadegan_league a ex:Organization .
+
+ex:aze a ex:Place .
+
+ex:azerbaijan a ex:Place .
+
+ex:azerbaijan_first_league a ex:Organization .
+
+ex:azerbaijan_premier_league a ex:Organization .
+
+ex:azerbaijan_second_league a ex:Organization .
+
+ex:bagshot a ex:Place .
+
+ex:bahia a ex:Place .
+
+ex:bailey a ex:Person .
+
+ex:baku a ex:Place .
+
+ex:balmoral_hotel a ex:Organization .
+
+ex:ban a owl:ObjectProperty .
+
+ex:bangor a ex:Place .
+
+ex:bannere a owl:ObjectProperty .
+
+ex:barbados_premier_league a ex:Organization .
+
+ex:barnes a ex:Person .
+
+ex:barney a ex:Person .
+
+ex:base a owl:ObjectProperty .
+
+ex:basel a ex:Place .
+
+ex:bate a ex:Person .
+
+ex:bayern_munich a ex:Organization .
+
+ex:bbc a ex:Organization .
+
+ex:bbc_iplayer_ a ex:Organization .
+
+ex:bbc_news a ex:Organization .
+
+ex:bbc_one a ex:Organization .
+
+ex:bbc_panorama a ex:Organization .
+
+ex:bbc_sport a ex:Organization .
+
+ex:be a owl:ObjectProperty .
+
+ex:beach_soccer_worldwide a ex:Organization .
+
+ex:beat a owl:ObjectProperty .
+
+ex:beatrice a ex:Person .
+
+ex:beaumaris a ex:Organization .
+
+ex:beckenbauer a ex:Person .
+
+ex:become a owl:ObjectProperty .
+
+ex:behavioral_sciences a ex:Organization .
+
+ex:bel a ex:Place .
+
+ex:belam a ex:Person .
+
+ex:belarus a ex:Person,
+        ex:Place .
+
+ex:belfast a ex:Place .
+
+ex:belgium a ex:Place .
+
+ex:bells_life_in_london a ex:Organization .
+
+ex:ben a ex:Person .
+
+ex:benin_super_ligue_pro_bermudian_premier_division a ex:Organization .
+
+ex:berkshire a ex:Place .
+
+ex:bern a ex:Organization,
+        ex:Place .
+
+ex:bevan a ex:Person .
+
+ex:bfa_senior_league a ex:Organization .
+
+ex:bhutan_premier_league a ex:Organization .
+
+ex:bid a owl:ObjectProperty .
+
+ex:bih a ex:Place .
+
+ex:bilanz a ex:Organization .
+
+ex:bin_hammam a ex:Person .
+
+ex:bin_hammam160 a ex:Person .
+
+ex:binong_boys a ex:Organization .
+
+ex:bisson a ex:Person .
+
+ex:blackheath a ex:Organization,
+        ex:Place .
+
+ex:blackheath_fc a ex:Organization .
+
+ex:blatter a ex:Person .
+
+ex:blazer a ex:Person .
+
+ex:bloomberg a ex:Organization .
+
+ex:blr a ex:Place .
+
+ex:bob a ex:Person .
+
+ex:bolivian_primera_división a ex:Organization .
+
+ex:borbely a ex:Person .
+
+ex:borbély a ex:Person .
+
+ex:borg a ex:Person .
+
+ex:bosnia_and_herzegovina a ex:Place .
+
+ex:botelho a ex:Person .
+
+ex:bournemouth a ex:Organization .
+
+ex:bowness_on_windermere a ex:Place .
+
+ex:boycott a owl:ObjectProperty .
+
+ex:braswell a ex:Person .
+
+ex:brazil a ex:Organization,
+        ex:Place .
+
+ex:break a owl:ObjectProperty .
+
+ex:brennan a ex:Person .
+
+ex:brent a ex:Person .
+
+ex:brentford a ex:Organization .
+
+ex:brett_whitesell a ex:Person .
+
+ex:brewin a ex:Person .
+
+ex:brian a ex:Person .
+
+ex:brighton a ex:Place .
+
+ex:brighton_hove_albion a ex:Organization .
+
+ex:bring a owl:ObjectProperty .
+
+ex:brisbane a ex:Place .
+
+ex:brischetto a ex:Person .
+
+ex:britain a ex:Place .
+
+ex:britannica a ex:Organization .
+
+ex:british_hotel a ex:Organization .
+
+ex:broadcast a owl:ObjectProperty .
+
+ex:browne a ex:Person .
+
+ex:bryon a ex:Person .
+
+ex:bt_group a ex:Organization .
+
+ex:bt_sport_espn a ex:Organization .
+
+ex:buenos_aires a ex:Place .
+
+ex:bul a ex:Place .
+
+ex:bulgaria a ex:Person,
+        ex:Place .
+
+ex:bulgarian_first_league a ex:Organization .
+
+ex:bulkeley_arms_hotel a ex:Organization .
+
+ex:bundesliga a ex:Organization .
+
+ex:bundoran a ex:Place .
+
+ex:burkinabé_premier_league a ex:Organization .
+
+ex:burundi_ligue_a a ex:Organization .
+
+ex:bushmills a ex:Place .
+
+ex:butler a ex:Person .
+
+ex:buyukcelebi a ex:Person .
+
+ex:bvifa_national_football_league a ex:Organization .
+
+ex:ca a ex:Place .
+
+ex:cable_news_network a ex:Organization .
+
+ex:caf a ex:Organization .
+
+ex:caledonian_hotel a ex:Organization .
+
+ex:call a owl:ObjectProperty .
+
+ex:cambridge a ex:Organization,
+        ex:Place .
+
+ex:cambridge_university a ex:Organization .
+
+ex:cameroon a ex:Place .
+
+ex:camino_real_hotel a ex:Organization .
+
+ex:campbell a ex:Person .
+
+ex:campionato_sammarinese a ex:Organization .
+
+ex:canada a ex:Place .
+
+ex:canadian_broadcasting_corporation a ex:Organization .
+
+ex:cannes a ex:Place .
+
+ex:cape_verdean_football_championship a ex:Organization .
+
+ex:capri a ex:Organization .
+
+ex:cardiff a ex:Place .
+
+ex:caribbean_football_union a ex:Organization .
+
+ex:carl_hirschmann a ex:Person .
+
+ex:carlos_enrique_fernández_cruz a ex:Person .
+
+ex:cas a ex:Organization .
+
+ex:casamayor a ex:Person .
+
+ex:cause a owl:ObjectProperty .
+
+ex:cavendish_hotel a ex:Organization .
+
+ex:cayman_islands a ex:Place .
+
+ex:cayman_islands_premier_league a ex:Organization .
+
+ex:cbc a ex:Organization .
+
+ex:cbc_news a ex:Organization .
+
+ex:cbc_sports a ex:Organization .
+
+ex:cbcradio_canada a ex:Organization .
+
+ex:cbf a ex:Organization .
+
+ex:cbs_sports a ex:Organization .
+
+ex:ceará a ex:Place .
+
+ex:celtic_manor_hotel a ex:Organization .
+
+ex:central_african_republic_league a ex:Organization .
+
+ex:cfu a ex:Organization .
+
+ex:chair a owl:ObjectProperty .
+
+ex:champions_league a ex:Organization .
+
+ex:charge a owl:ObjectProperty .
+
+ex:charles_miers a ex:Person .
+
+ex:charles_w_alcock a ex:Person .
+
+ex:charlie a ex:Person .
+
+ex:charlie_austin47 a ex:Person .
+
+ex:chaudhary a ex:Person .
+
+ex:check a owl:ObjectProperty .
+
+ex:chelsea a ex:Organization .
+
+ex:chelvan a ex:Person .
+
+ex:cheryl_foster a ex:Person .
+
+ex:chile a ex:Place .
+
+ex:chiliz a ex:Organization .
+
+ex:china a ex:Place .
+
+ex:china_post a ex:Organization .
+
+ex:chinese_super_league a ex:Organization .
+
+ex:choose a owl:ObjectProperty .
+
+ex:chowdhury a ex:Person .
+
+ex:chris a ex:Person .
+
+ex:chris_gascoigne a ex:Person .
+
+ex:christian_stiegler a ex:Person .
+
+ex:chuck_blazer a ex:Person .
+
+ex:chuck_blazer150151152 a ex:Person .
+
+ex:chunman a ex:Person .
+
+ex:church a ex:Person .
+
+ex:cis a ex:Place .
+
+ex:city a ex:Organization .
+
+ex:claim a owl:ObjectProperty .
+
+ex:claridges_hotel a ex:Organization .
+
+ex:clear a owl:ObjectProperty .
+
+ex:clifford a ex:Person .
+
+ex:cliveden a ex:Place .
+
+ex:cna a ex:Organization .
+
+ex:cnn a ex:Organization .
+
+ex:cnn_international a ex:Organization .
+
+ex:coach a owl:ObjectProperty .
+
+ex:coca_cola a ex:Organization .
+
+ex:colin a ex:Person .
+
+ex:colin_smith a ex:Person .
+
+ex:collett a ex:Person .
+
+ex:collide a owl:ObjectProperty .
+
+ex:collina a ex:Person .
+
+ex:cologne a ex:Place .
+
+ex:cologne_deutz11 a ex:Place .
+
+ex:come a owl:ObjectProperty .
+
+ex:comité_français_interfédéral a ex:Organization .
+
+ex:comment a owl:ObjectProperty .
+
+ex:commercial_hotel a ex:Organization .
+
+ex:community_access_television a ex:Organization .
+
+ex:comoros_premier_league a ex:Organization .
+
+ex:compare a owl:ObjectProperty .
+
+ex:compete a owl:ObjectProperty .
+
+ex:competitions46 a owl:ObjectProperty .
+
+ex:complicate a owl:ObjectProperty .
+
+ex:comprise owl:equivalentProperty <http://www.wikidata.org/prop/direct/P527> .
+
+ex:concacaf a ex:Organization .
+
+ex:conclude a owl:ObjectProperty .
+
+ex:conduct a owl:ObjectProperty .
+
+ex:condé_nast a ex:Organization .
+
+ex:confederación_sudamericana_de_fútbol a ex:Organization .
+
+ex:confederation_of_african_football a ex:Organization .
+
+ex:confederation_of_north a ex:Organization .
+
+ex:confederation_of_north_central_american_and_caribbean_association_football a ex:Organization .
+
+ex:confederation_of_south_american_football a ex:Organization .
+
+ex:confederations a ex:Organization .
+
+ex:conference_league a ex:Organization .
+
+ex:confirm a owl:ObjectProperty .
+
+ex:congress a ex:Organization .
+
+ex:conmebol a ex:Organization .
+
+ex:conn a ex:Person .
+
+ex:conor a ex:Person .
+
+ex:conor_coady a ex:Person .
+
+ex:consider a owl:ObjectProperty .
+
+ex:consist a owl:ObjectProperty .
+
+ex:conway a ex:Person .
+
+ex:cook a ex:Person .
+
+ex:coomber a ex:Person .
+
+ex:copacabana_palace_hotel a ex:Organization .
+
+ex:cornel_borbély a ex:Person .
+
+ex:cornelis_august_wilhelm_hirschman a ex:Person .
+
+ex:cosafa a ex:Organization .
+
+ex:costa_rica a ex:Place .
+
+ex:council a ex:Organization .
+
+ex:county_durham a ex:Place .
+
+ex:court_of_arbitration_for_sports a ex:Organization .
+
+ex:cover a owl:ObjectProperty .
+
+ex:coverciano a ex:Place .
+
+ex:craigavad a ex:Place .
+
+ex:crawford_allan a ex:Person .
+
+ex:create a owl:ObjectProperty .
+
+ex:crispin a ex:Person .
+
+ex:cristiano_ronaldo a ex:Person .
+
+ex:criticised6667 a owl:ObjectProperty .
+
+ex:criticize a owl:ObjectProperty .
+
+ex:cro a ex:Place .
+
+ex:croatia a ex:Place .
+
+ex:cruyff a ex:Person .
+
+ex:crystal_palace a ex:Organization .
+
+ex:crystal_palace39 a ex:Organization .
+
+ex:crystal_palace_fc a ex:Organization .
+
+ex:cuba a ex:Place .
+
+ex:culloden_hotel a ex:Organization .
+
+ex:cyp a ex:Place .
+
+ex:cypriot_first_division a ex:Organization .
+
+ex:cyprus a ex:Place .
+
+ex:cze a ex:Place .
+
+ex:czech_republic a ex:Place .
+
+ex:czech_republicv a ex:Place .
+
+ex:czech_republicz a ex:Place .
+
+ex:czechoslovakia a ex:Place .
+
+ex:czechoslovakia51 a ex:Place .
+
+ex:czechoslovakia52 a ex:Place .
+
+ex:côte_dazur_derby a ex:Place .
+
+ex:daily_telegraph a ex:Organization .
+
+ex:daishs_hotel a ex:Organization .
+
+ex:dale a ex:Person .
+
+ex:dallas a ex:Organization .
+
+ex:damian a ex:Person .
+
+ex:damian_collins a ex:Person .
+
+ex:dan a ex:Person .
+
+ex:dan_b_woolfall27 a ex:Person .
+
+ex:dan_cook a ex:Person .
+
+ex:daniel a ex:Person .
+
+ex:daniel_amokachi a ex:Person .
+
+ex:daniel_burley_woolfall a ex:Person .
+
+ex:danny_jordaan a ex:Person .
+
+ex:danyang a ex:Person .
+
+ex:darrell_warner a ex:Person .
+
+ex:darren_england a ex:Person .
+
+ex:daryan_warner a ex:Person .
+
+ex:dave_zirin a ex:Person .
+
+ex:david a ex:Person .
+
+ex:david_cameron a ex:Person .
+
+ex:david_elleray a ex:Person .
+
+ex:david_goldblatt a ex:Person .
+
+ex:david_ingram a ex:Person .
+
+ex:david_taylor a ex:Person .
+
+ex:david_triesman a ex:Person .
+
+ex:dazn a ex:Organization .
+
+ex:debbie_minguell a ex:Person .
+
+ex:decide a owl:ObjectProperty .
+
+ex:declare a owl:ObjectProperty .
+
+ex:decline a owl:ObjectProperty .
+
+ex:defeat a owl:ObjectProperty .
+
+ex:deliver a owl:ObjectProperty .
+
+ex:denmark a ex:Person,
+        ex:Place .
+
+ex:deny a owl:ObjectProperty .
+
+ex:department_of_justice a ex:Organization .
+
+ex:der_spiegel a ex:Organization .
+
+ex:derry_city a ex:Organization,
+        ex:Place .
+
+ex:deschamps a ex:Person .
+
+ex:describe a owl:ObjectProperty .
+
+ex:desmond a ex:Person .
+
+ex:dfb a ex:Organization .
+
+ex:dick_pound a ex:Person .
+
+ex:dickinson a ex:Person .
+
+ex:didier_deschamps a ex:Person .
+
+ex:die a owl:ObjectProperty .
+
+ex:diederik_dewaele a ex:Person .
+
+ex:diego_maradona a ex:Person .
+
+ex:dimayor a ex:Organization .
+
+ex:disagree a owl:ObjectProperty .
+
+ex:discover a owl:ObjectProperty .
+
+ex:discovery_inc a ex:Organization .
+
+ex:display a owl:ObjectProperty .
+
+ex:dissolve a owl:ObjectProperty .
+
+ex:djalma_santos a ex:Person .
+
+ex:djibouti_premier_league a ex:Organization .
+
+ex:doherty a ex:Person .
+
+ex:dominica_premier_league a ex:Organization .
+
+ex:donald_trump a ex:Person .
+
+ex:dons a ex:Organization .
+
+ex:downie a ex:Person .
+
+ex:dragon_hotel a ex:Organization .
+
+ex:dubrovnik a ex:Place .
+
+ex:duke_of_richmond_hotel a ex:Organization .
+
+ex:dunbar a ex:Person .
+
+ex:dutch_referee_blog a ex:Organization .
+
+ex:duz a ex:Person .
+
+ex:ea_sports a ex:Organization .
+
+ex:ea_sports_fifa a ex:Organization .
+
+ex:eagle_football_group a ex:Organization .
+
+ex:earn a owl:ObjectProperty .
+
+ex:east_germany a ex:Place .
+
+ex:east_germanyae a ex:Place .
+
+ex:east_germanyz a ex:Place .
+
+ex:eastbourne a ex:Place .
+
+ex:ebbe_schwartz a ex:Person .
+
+ex:ebenezer_cobb_morley a ex:Person .
+
+ex:eca a ex:Organization .
+
+ex:eckert a ex:Person .
+
+ex:edinburgh a ex:Place .
+
+ex:editalthough a owl:ObjectProperty .
+
+ex:editrelate a owl:ObjectProperty .
+
+ex:editsee a owl:ObjectProperty .
+
+ex:editthe a owl:ObjectProperty .
+
+ex:efa a ex:Organization .
+
+ex:egypt a ex:Place .
+
+ex:einhorn a ex:Person .
+
+ex:ekstraklasa a ex:Organization .
+
+ex:el_fram_de_reykjavic a ex:Person .
+
+ex:el_mundo_deportivos a ex:Organization .
+
+ex:elbech a ex:Person .
+
+ex:elect a owl:ObjectProperty .
+
+ex:electronic_arts105 a ex:Organization .
+
+ex:eleven a ex:Organization .
+
+ex:eleven_sports a ex:Organization .
+
+ex:eliott_c a ex:Person .
+
+ex:ellis a ex:Person .
+
+ex:emerge a owl:ObjectProperty .
+
+ex:emergency_committee a ex:Organization .
+
+ex:emirates a ex:Organization .
+
+ex:emory_international_law_review a ex:Organization .
+
+ex:end a owl:ObjectProperty .
+
+ex:england a ex:Person,
+        ex:Place .
+
+ex:england_football_online a ex:Organization .
+
+ex:enjoy a owl:ObjectProperty .
+
+ex:enrique_cáceres a ex:Person .
+
+ex:enter a owl:ObjectProperty .
+
+ex:enterprise_rent_a_car a ex:Organization .
+
+ex:equatoguinean_primera_división a ex:Organization .
+
+ex:eredivisie a ex:Organization .
+
+ex:eretz_yisrael a ex:Place .
+
+ex:eric_ding a ex:Person .
+
+ex:ernst_thommen a ex:Person .
+
+ex:esp a ex:Organization .
+
+ex:espn a ex:Organization .
+
+ex:espn_fc a ex:Organization .
+
+ex:espn_inc a ex:Organization .
+
+ex:espn_soccernet a ex:Organization .
+
+ex:espncom a ex:Organization .
+
+ex:espírito_santo a ex:Place .
+
+ex:establish a owl:ObjectProperty .
+
+ex:estonia a ex:Person,
+        ex:Place .
+
+ex:ethiopian_higher_league a ex:Organization .
+
+ex:eton a ex:Organization .
+
+ex:eu a ex:Organization,
+        ex:Place .
+
+ex:eugenio_figueredo a ex:Person .
+
+ex:europa_conference_league a ex:Organization .
+
+ex:europa_league a ex:Organization .
+
+ex:europa_league_2 a ex:Organization .
+
+ex:europa_leagues a ex:Organization .
+
+ex:european_club_association a ex:Organization .
+
+ex:européenne a owl:ObjectProperty .
+
+ex:eurosport a ex:Organization .
+
+ex:eurosport_india a ex:Organization .
+
+ex:evan_rogez_m0nkey_m00n a ex:Person .
+
+ex:ewan a ex:Person .
+
+ex:exclude a owl:ObjectProperty .
+
+ex:executive_committee a ex:Organization .
+
+ex:expel a owl:ObjectProperty .
+
+ex:experiment a owl:ObjectProperty .
+
+ex:explain a owl:ObjectProperty .
+
+ex:fa a ex:Organization .
+
+ex:fa_cup a ex:Organization .
+
+ex:fa_yugoslavia a ex:Organization .
+
+ex:faber a ex:Organization .
+
+ex:face a owl:ObjectProperty .
+
+ex:faf a ex:Organization .
+
+ex:fai a ex:Organization .
+
+ex:fail a owl:ObjectProperty .
+
+ex:faroe_islands a ex:Place .
+
+ex:fas a ex:Organization .
+
+ex:faw a ex:Organization .
+
+ex:fbf a ex:Organization .
+
+ex:fbi a ex:Organization .
+
+ex:fc_copenhagen a ex:Organization .
+
+ex:fc_dallas a ex:Organization .
+
+ex:fc_eindhoven20 a ex:Organization .
+
+ex:fcf a ex:Organization .
+
+ex:feature a owl:ObjectProperty .
+
+ex:federación_internacional_de_fútbol_asociación4 a ex:Organization .
+
+ex:federal_district a ex:Place .
+
+ex:federação_internacional_de_futebol_associação5 a ex:Organization .
+
+ex:ferj a ex:Organization .
+
+ex:fernando_muslera a ex:Person .
+
+ex:ferry_hotel a ex:Organization .
+
+ex:ffa a ex:Organization .
+
+ex:ffdf a ex:Organization .
+
+ex:fgf a ex:Organization .
+
+ex:fifa a ex:Organization .
+
+ex:fifa_africa_office a ex:Organization .
+
+ex:fifa_and_the_contest_for_world_football a ex:Organization .
+
+ex:fifa_appoints a ex:Organization .
+
+ex:fifa_committees_ a ex:Organization .
+
+ex:fifa_congress a ex:Organization .
+
+ex:fifa_council a ex:Organization .
+
+ex:fifa_ethics_committee a ex:Organization .
+
+ex:fifa_executive_committee a ex:Organization .
+
+ex:fifa_fédération_internationale_de_football_association a ex:Organization .
+
+ex:fifa_have a ex:Organization .
+
+ex:fifa_history_of_football a ex:Organization .
+
+ex:fifa_house a ex:Organization .
+
+ex:fifa_inside a ex:Organization .
+
+ex:fifa_museum a ex:Organization .
+
+ex:fifa_plus a ex:Organization .
+
+ex:fifa_weekly a ex:Organization .
+
+ex:fifa_working_group a ex:Organization .
+
+ex:fifa_world_cup a ex:Organization .
+
+ex:fifacom a ex:Organization .
+
+ex:fifae a ex:Organization .
+
+ex:fifamuseumcom a ex:Organization .
+
+ex:fifpro a ex:Organization .
+
+ex:figure a owl:ObjectProperty .
+
+ex:fiji_premier_league a ex:Organization .
+
+ex:finish a owl:ObjectProperty .
+
+ex:finland a ex:Person,
+        ex:Place .
+
+ex:fitzgibbon a ex:Person .
+
+ex:fly a owl:ObjectProperty .
+
+ex:fmf a ex:Organization .
+
+ex:fnf a ex:Organization .
+
+ex:follow a owl:ObjectProperty .
+
+ex:football a ex:Organization .
+
+ex:football_association a ex:Organization .
+
+ex:football_association_of_slovenia a ex:Organization .
+
+ex:football_association_of_the_czech_republic a ex:Organization .
+
+ex:football_australia a ex:Organization .
+
+ex:football_federation_of_the_islamic_republic_of_mauritania a ex:Organization .
+
+ex:football_italia a ex:Organization .
+
+ex:football_league a ex:Organization .
+
+ex:forbes a ex:Organization .
+
+ex:force a owl:ObjectProperty .
+
+ex:form_function_fifa a ex:Organization .
+
+ex:foster_city a ex:Place .
+
+ex:found a owl:ObjectProperty ;
+    owl:equivalentProperty <http://www.wikidata.org/prop/direct/P571> .
+
+ex:fox_sports a ex:Organization .
+
+ex:fpf a ex:Organization .
+
+ex:fr a owl:ObjectProperty .
+
+ex:fr_yugoslavia a ex:Place .
+
+ex:fr_yugoslavia_serbia_and_montenegro a ex:Place .
+
+ex:fra a ex:Place .
+
+ex:france a ex:Place .
+
+ex:francis_campbell a ex:Person .
+
+ex:francis_marindin a ex:Person .
+
+ex:francisco_maturana a ex:Person .
+
+ex:franco_baresi a ex:Person .
+
+ex:frank_cass_publishers a ex:Organization .
+
+ex:frank_lampard a ex:Person .
+
+ex:franz_beckenbauer a ex:Person .
+
+ex:franz_lambert a ex:Person .
+
+ex:fred_lunn a ex:Person .
+
+ex:french_guiana a ex:Place .
+
+ex:frf a ex:Organization .
+
+ex:frmf a ex:Organization .
+
+ex:frontiers_in_psychology a ex:Organization .
+
+ex:fsbih a ex:Organization .
+
+ex:fsf a ex:Organization .
+
+ex:fu a ex:Person .
+
+ex:futsal_european_clubs_championship a ex:Organization .
+
+ex:futve2 a ex:Organization .
+
+ex:fédération_internationale_de_football_association a ex:Organization .
+
+ex:gabriel a ex:Person .
+
+ex:gabriel_batistuta a ex:Person .
+
+ex:gabriele_gravina a ex:Person .
+
+ex:gabrys a ex:Person .
+
+ex:gadamico a ex:Organization .
+
+ex:galily a ex:Person .
+
+ex:garcia a ex:Person .
+
+ex:gary a ex:Person .
+
+ex:gary_lineker a ex:Person .
+
+ex:gazzaniga a ex:Person .
+
+ex:gentry a ex:Person .
+
+ex:georgia a ex:Place .
+
+ex:ger a ex:Place .
+
+ex:gerard a ex:Person .
+
+ex:gerd_müller a ex:Person .
+
+ex:geremi_njitap a ex:Person .
+
+ex:gerhard_aigner a ex:Person .
+
+ex:german_federation a ex:Organization .
+
+ex:german_football_association a ex:Organization .
+
+ex:germany a ex:Place .
+
+ex:gfa_league a ex:Organization .
+
+ex:gfa_premier_league a ex:Organization .
+
+ex:gff_elite_league a ex:Organization .
+
+ex:gianni_infantino a ex:Person .
+
+ex:gianni_infantino18 a ex:Person .
+
+ex:gianni_infantino72 a ex:Person .
+
+ex:gib a ex:Place .
+
+ex:gibraltar a ex:Place .
+
+ex:gibson a ex:Person .
+
+ex:glanville a ex:Organization,
+        ex:Person .
+
+ex:glasgow a ex:Place .
+
+ex:gleneagles_hotel a ex:Organization .
+
+ex:glenn_m_wong a ex:Person .
+
+ex:globoesporte a ex:Organization .
+
+ex:goiás a ex:Place .
+
+ex:goldberg a ex:Person .
+
+ex:google_books a ex:Organization .
+
+ex:govern a owl:ObjectProperty ;
+    owl:equivalentProperty <http://www.wikidata.org/prop/direct/P748> .
+
+ex:graeme a ex:Person .
+
+ex:graham a ex:Person .
+
+ex:grand_hotel a ex:Organization .
+
+ex:gre a ex:Place .
+
+ex:great_britain a ex:Place .
+
+ex:great_northern_hotel a ex:Organization .
+
+ex:greece a ex:Person,
+        ex:Place .
+
+ex:greg a ex:Person .
+
+ex:grez a ex:Person .
+
+ex:grow a owl:ObjectProperty .
+
+ex:grzegorz_lato a ex:Person .
+
+ex:guardian a ex:Organization .
+
+ex:gujarat_super_league a ex:Organization .
+
+ex:gustav_wiederkehr a ex:Person .
+
+ex:guy_smith a ex:Person .
+
+ex:guyana a ex:Place .
+
+ex:guérin a ex:Person .
+
+ex:gómez a ex:Person .
+
+ex:hack a owl:ObjectProperty .
+
+ex:hakan a ex:Person .
+
+ex:hanbury_manor a ex:Organization .
+
+ex:hand a owl:ObjectProperty .
+
+ex:hankook a ex:Organization .
+
+ex:hannah a ex:Person .
+
+ex:hans_bangerter a ex:Person .
+
+ex:hans_joachim_eckert a ex:Person .
+
+ex:hans_joachim_watzke a ex:Person .
+
+ex:harmsel a ex:Person .
+
+ex:harpercollins a ex:Organization .
+
+ex:harris a ex:Person .
+
+ex:harvey a ex:Person .
+
+ex:have a owl:ObjectProperty .
+
+ex:havelange a ex:Person .
+
+ex:hawk_eye_innovations_limited a ex:Organization .
+
+ex:hayatou a ex:Person .
+
+ex:headquarter a owl:ObjectProperty .
+
+ex:hear a owl:ObjectProperty .
+
+ex:heimo_schirgi a ex:Person .
+
+ex:helmut_rahn a ex:Person .
+
+ex:hemeroteca a ex:Organization .
+
+ex:henri_delaunay a ex:Person .
+
+ex:henrikh_mkhitaryan a ex:Person .
+
+ex:henry_kissinger a ex:Person .
+
+ex:hertfordshire a ex:Place .
+
+ex:hfp a ex:Organization .
+
+ex:hiddink a ex:Organization .
+
+ex:hidetoshi_nakata a ex:Person .
+
+ex:highlight a owl:ObjectProperty .
+
+ex:hilton_cavalieri_hotel a ex:Organization .
+
+ex:hindu a ex:Organization .
+
+ex:hold a owl:ObjectProperty ;
+    owl:equivalentProperty <http://www.wikidata.org/prop/direct/P664> .
+
+ex:holt a ex:Person .
+
+ex:holywood a ex:Place .
+
+ex:home_associations a ex:Organization .
+
+ex:home_nations a ex:Organization,
+        ex:Place .
+
+ex:homewood a ex:Person .
+
+ex:hong_kong a ex:Place .
+
+ex:horst_dieter_höttges a ex:Person .
+
+ex:host a owl:ObjectProperty .
+
+ex:hotel_excelsior a ex:Organization .
+
+ex:hotel_foresta a ex:Organization .
+
+ex:hotel_sheraton a ex:Organization .
+
+ex:howard_webb a ex:Person .
+
+ex:hughes a ex:Person .
+
+ex:hun a ex:Place .
+
+ex:hungary a ex:Place .
+
+ex:hydro_hotel a ex:Organization .
+
+ex:hytner a ex:Person .
+
+ex:hyundai a ex:Organization .
+
+ex:hyundai_a_ a ex:Organization .
+
+ex:hyundai_a_league a ex:Organization .
+
+ex:hôtel_mont_cervin a ex:Organization .
+
+ex:iceland a ex:Place .
+
+ex:ichsan_taufiq a ex:Person .
+
+ex:identify a owl:ObjectProperty .
+
+ex:idg_books_worldwide a ex:Organization .
+
+ex:ifa a ex:Organization .
+
+ex:ifab a ex:Organization .
+
+ex:iffhs a ex:Organization .
+
+ex:iheanacho a ex:Person .
+
+ex:ii a ex:Person .
+
+ex:imperial_hotel a ex:Organization .
+
+ex:implement a owl:ObjectProperty .
+
+ex:implicate a owl:ObjectProperty .
+
+ex:impose a owl:ObjectProperty .
+
+ex:improve a owl:ObjectProperty .
+
+ex:include a owl:ObjectProperty ;
+    owl:equivalentProperty <http://www.wikidata.org/prop/direct/P527> .
+
+ex:independent_print_limited a ex:Organization .
+
+ex:india a ex:Place .
+
+ex:indiatoday a ex:Organization .
+
+ex:indict a owl:ObjectProperty .
+
+ex:indonesia a ex:Place .
+
+ex:infantino a ex:Person .
+
+ex:inside_fifa a ex:Organization .
+
+ex:inside_world_football a ex:Organization .
+
+ex:inspect a owl:ObjectProperty .
+
+ex:inter_milan a ex:Organization .
+
+ex:internal_revenue_service a ex:Organization .
+
+ex:international a ex:Organization .
+
+ex:international_association_football_federation6 a ex:Organization .
+
+ex:international_fa_board a ex:Organization .
+
+ex:international_federation_of_association_football a ex:Organization .
+
+ex:international_football_association_board a ex:Organization .
+
+ex:international_football_association_board_ a ex:Organization .
+
+ex:international_football_board a ex:Organization .
+
+ex:international_herald_tribune a ex:Organization .
+
+ex:international_olympic_committee a ex:Organization .
+
+ex:international_olympic_committee_international_football_association_board a ex:Organization .
+
+ex:international_society_of_biomechanics_in_sports a ex:Organization .
+
+ex:international_sport_and_leisure a ex:Organization .
+
+ex:introduce a owl:ObjectProperty .
+
+ex:inverness a ex:Place .
+
+ex:invite a owl:ObjectProperty .
+
+ex:involve a owl:ObjectProperty .
+
+ex:ioc a ex:Organization .
+
+ex:iol a ex:Organization .
+
+ex:ipsos a ex:Organization .
+
+ex:iptv a ex:Organization .
+
+ex:iraq a ex:Place .
+
+ex:iraq_stars_league a ex:Organization .
+
+ex:iraqi_football_association a ex:Organization .
+
+ex:ireland a ex:Person,
+        ex:Place .
+
+ex:irish_football_association a ex:Organization .
+
+ex:irl a ex:Person .
+
+ex:irs a ex:Organization .
+
+ex:isl a ex:Organization,
+        ex:Place .
+
+ex:ismail_elfath a ex:Person .
+
+ex:isr a ex:Place .
+
+ex:israel a ex:Person,
+        ex:Place .
+
+ex:israel_football_association a ex:Organization .
+
+ex:israely a ex:Person .
+
+ex:issa_hayatou a ex:Person .
+
+ex:issue a owl:ObjectProperty .
+
+ex:ita a ex:Place .
+
+ex:italy a ex:Place .
+
+ex:itn a ex:Organization .
+
+ex:itv_news a ex:Organization .
+
+ex:ivan_vicelich a ex:Person .
+
+ex:ivorian_football_federation a ex:Organization .
+
+ex:ivory_coast a ex:Place .
+
+ex:jaaf_design a ex:Person .
+
+ex:jack_warner a ex:Person .
+
+ex:jackson a ex:Person .
+
+ex:jacques_anouma a ex:Person .
+
+ex:jacques_georges a ex:Person .
+
+ex:jacques_rogge a ex:Person .
+
+ex:jakarta a ex:Place .
+
+ex:jamaal_shabazz a ex:Person .
+
+ex:james a ex:Person .
+
+ex:james_ewing a ex:Person .
+
+ex:jamie a ex:Person .
+
+ex:jan_ter a ex:Person .
+
+ex:japan a ex:Place .
+
+ex:japan_times a ex:Organization .
+
+ex:jason_sylvester a ex:Person .
+
+ex:jeff a ex:Person .
+
+ex:jeffrey_webb a ex:Person .
+
+ex:jennings a ex:Person .
+
+ex:jersey a ex:Person,
+        ex:Place .
+
+ex:jersey_fa a ex:Organization .
+
+ex:jesper_møller_christensen a ex:Person .
+
+ex:jfa a ex:Organization .
+
+ex:jfajo a ex:Organization .
+
+ex:jill_ellis a ex:Person .
+
+ex:jim_trecker a ex:Person .
+
+ex:jimmy_greaves a ex:Person .
+
+ex:jk_mcdowall a ex:Person .
+
+ex:joao_havelange a ex:Person .
+
+ex:joe a ex:Person .
+
+ex:johan_cruyff a ex:Person .
+
+ex:john a ex:Person .
+
+ex:john_f a ex:Person .
+
+ex:john_goddard a ex:Person .
+
+ex:john_lillywhite a ex:Person .
+
+ex:john_sugden a ex:Person .
+
+ex:john_textors a ex:Person .
+
+ex:johnson a ex:Person .
+
+ex:join a owl:ObjectProperty .
+
+ex:jonathan a ex:Person .
+
+ex:jonathan_liew a ex:Person .
+
+ex:jonathan_wilson a ex:Person .
+
+ex:jordaan a ex:Person .
+
+ex:jordan_football_association a ex:Organization .
+
+ex:jordana a ex:Person .
+
+ex:jordi a ex:Person .
+
+ex:joseph_blatter a ex:Person .
+
+ex:joshua a ex:Person .
+
+ex:josé_hawilla a ex:Person .
+
+ex:joão a ex:Person .
+
+ex:joão_havelange a ex:Person .
+
+ex:judith a ex:Person .
+
+ex:jules_rimet a ex:Person .
+
+ex:just_fontaine a ex:Person .
+
+ex:juventus a ex:Organization .
+
+ex:jérôme_valcke a ex:Person .
+
+ex:jørgensen a ex:Person .
+
+ex:jürgen_grabowski a ex:Person .
+
+ex:jürgen_klinsmann a ex:Person .
+
+ex:kaj_heyral a ex:Person .
+
+ex:kane a ex:Person .
+
+ex:karayigit a ex:Person .
+
+ex:karel a ex:Person .
+
+ex:kashima_antlers a ex:Organization .
+
+ex:kate_filochowski a ex:Person .
+
+ex:kategoria_superiore a ex:Organization .
+
+ex:kay a ex:Person .
+
+ex:kay_cossington a ex:Person .
+
+ex:kaz a ex:Place .
+
+ex:kazakh_premier_league a ex:Organization .
+
+ex:kazakhstan a ex:Place .
+
+ex:kearney a ex:Person .
+
+ex:keep a owl:ObjectProperty .
+
+ex:kelso a ex:Person .
+
+ex:kerith a ex:Person .
+
+ex:kevin_stoltenkamp a ex:Person .
+
+ex:kfa a ex:Organization .
+
+ex:killarney a ex:Place .
+
+ex:kirby a ex:Person .
+
+ex:kirk a ex:Person .
+
+ex:kissinger a ex:Person .
+
+ex:know a owl:ObjectProperty .
+
+ex:knvb a ex:Organization .
+
+ex:kohli a ex:Person .
+
+ex:kos a ex:Place .
+
+ex:kosovar_superleague a ex:Organization .
+
+ex:kosovo a ex:Place .
+
+ex:ksi a ex:Organization .
+
+ex:kuwaiti_division_one a ex:Organization .
+
+ex:kuwaiti_premier_league a ex:Organization .
+
+ex:kylian_mbappé a ex:Person .
+
+ex:köln a ex:Place .
+
+ex:la_liga a ex:Organization .
+
+ex:la_vanguardia a ex:Organization .
+
+ex:labour a ex:Organization .
+
+ex:lagos a ex:Place .
+
+ex:laliga_santander a ex:Organization .
+
+ex:lancashire_evening_post a ex:Organization .
+
+ex:lars_christer_olsson a ex:Person .
+
+ex:latvia a ex:Person,
+        ex:Place .
+
+ex:lauber a ex:Person .
+
+ex:launch a owl:ObjectProperty .
+
+ex:laura_mcallister a ex:Person .
+
+ex:law a ex:Person .
+
+ex:lazio a ex:Organization .
+
+ex:lead a owl:ObjectProperty .
+
+ex:league_of_ireland1213 a ex:Place .
+
+ex:leave a owl:ObjectProperty .
+
+ex:lebanese_premier_league a ex:Organization .
+
+ex:lebanese_womens_football_league a ex:Organization .
+
+ex:lee_evans a ex:Person .
+
+ex:leeds_united a ex:Organization .
+
+ex:lega_b a ex:Organization .
+
+ex:lega_serie_a a ex:Organization .
+
+ex:lennart_johansson a ex:Person .
+
+ex:lenovo a ex:Organization .
+
+ex:lesley a ex:Person .
+
+ex:lesotho_premier_league a ex:Organization .
+
+ex:lfa_first_division a ex:Organization .
+
+ex:li a ex:Person .
+
+ex:liam a ex:Person .
+
+ex:liana a ex:Person .
+
+ex:libyan_premier_league a ex:Organization .
+
+ex:lie a ex:Place .
+
+ex:liechtenstein a ex:Place .
+
+ex:liew a ex:Person .
+
+ex:lift a owl:ObjectProperty .
+
+ex:ligue_119 a ex:Organization .
+
+ex:ligue_de_football_professionnel a ex:Organization .
+
+ex:like a owl:ObjectProperty .
+
+ex:lionel_messi a ex:Person .
+
+ex:lipton a ex:Organization,
+        ex:Person .
+
+ex:lisana_liburd a ex:Person .
+
+ex:lithuania a ex:Place .
+
+ex:liverpool a ex:Organization .
+
+ex:liverpool_fc a ex:Organization .
+
+ex:llandudno a ex:Place .
+
+ex:llangollen a ex:Place .
+
+ex:locate a owl:ObjectProperty .
+
+ex:loch_lomond a ex:Place .
+
+ex:london a ex:Place .
+
+ex:london_congress a ex:Organization .
+
+ex:lothar_matthäus a ex:Person .
+
+ex:louis_giskus a ex:Person .
+
+ex:lowry_hotel a ex:Organization .
+
+ex:ltu a ex:Place .
+
+ex:lucerne a ex:Place .
+
+ex:lucien_laurent a ex:Person .
+
+ex:luis_diaz a ex:Person .
+
+ex:lukas_brud a ex:Person .
+
+ex:lux a ex:Place .
+
+ex:luxembourg a ex:Person,
+        ex:Place .
+
+ex:luís_figo a ex:Person .
+
+ex:lva a ex:Place .
+
+ex:lydia_williams a ex:Person .
+
+ex:lyon a ex:Organization .
+
+ex:macario a ex:Person .
+
+ex:macau a ex:Place .
+
+ex:macinnes a ex:Person .
+
+ex:madrid a ex:Place .
+
+ex:magistro a ex:Person .
+
+ex:mahmut a ex:Person .
+
+ex:major_league_soccer a ex:Organization .
+
+ex:make a owl:ObjectProperty .
+
+ex:malaysian_football_league a ex:Organization .
+
+ex:malmo a ex:Place .
+
+ex:malta a ex:Place .
+
+ex:manar_hidayat a ex:Person .
+
+ex:manchester a ex:Place .
+
+ex:manchester_city a ex:Organization .
+
+ex:manchester_united a ex:Organization .
+
+ex:mann a ex:Person .
+
+ex:maradona a ex:Person .
+
+ex:maranhão a ex:Place .
+
+ex:marca a ex:Organization .
+
+ex:marcliffe_hotel a ex:Organization .
+
+ex:marco_villiger a ex:Person .
+
+ex:marindin a ex:Person .
+
+ex:marine_hotel a ex:Organization .
+
+ex:mark a ex:Person .
+
+ex:mark_arbib a ex:Person .
+
+ex:mark_gleeson a ex:Person .
+
+ex:mark_hosenball a ex:Person .
+
+ex:maroon a ex:Organization .
+
+ex:martin a ex:Person .
+
+ex:martyn a ex:Person .
+
+ex:massimo_busacca a ex:Person .
+
+ex:match a owl:ObjectProperty .
+
+ex:matias a ex:Person .
+
+ex:matt a ex:Person .
+
+ex:matt_scott a ex:Person .
+
+ex:matthaus a ex:Person .
+
+ex:matthew a ex:Person .
+
+ex:mattias_grafström a ex:Person .
+
+ex:maurer a ex:Person .
+
+ex:mcallister a ex:Person .
+
+ex:mcdonalds a ex:Organization .
+
+ex:mcdowall a ex:Person .
+
+ex:mclaughlin a ex:Person .
+
+ex:mcnulty a ex:Person .
+
+ex:medeiros a ex:Person .
+
+ex:meet a owl:ObjectProperty .
+
+ex:mehdi_mahdavikia a ex:Person .
+
+ex:meira_ricci a ex:Person .
+
+ex:mel_brennan a ex:Person .
+
+ex:melbourne_city a ex:Organization .
+
+ex:melbourne_fc a ex:Organization .
+
+ex:melbourne_victory a ex:Organization .
+
+ex:memmert a ex:Person .
+
+ex:mercy_akide a ex:Person .
+
+ex:messi a ex:Person .
+
+ex:metrostars a ex:Organization .
+
+ex:mewatch a ex:Organization .
+
+ex:mexican_football_federation a ex:Organization .
+
+ex:mexico a ex:Place .
+
+ex:mgn a ex:Organization .
+
+ex:miami a ex:Place .
+
+ex:michael a ex:Person .
+
+ex:michael_garcia a ex:Person .
+
+ex:michael_j_garcia a ex:Person .
+
+ex:michael_lauber a ex:Person .
+
+ex:michael_lewis a ex:Person .
+
+ex:michael_owen a ex:Person .
+
+ex:michel_platini a ex:Person .
+
+ex:michel_platini14 a ex:Person .
+
+ex:michel_platinis a ex:Person .
+
+ex:miguel_ángel a ex:Person .
+
+ex:mike a ex:Person .
+
+ex:milan_škoda a ex:Person .
+
+ex:milton_keynes a ex:Organization .
+
+ex:minais_gerais a ex:Place .
+
+ex:minbappe a ex:Person .
+
+ex:ming a ex:Person .
+
+ex:miroslav_klose a ex:Person .
+
+ex:miskin_manor_hotel a ex:Organization .
+
+ex:mkd a ex:Organization .
+
+ex:mls a ex:Organization .
+
+ex:mohamed_bin_hammam a ex:Person .
+
+ex:mohammed_alotaibi_trk511 a ex:Person .
+
+ex:moldova a ex:Place .
+
+ex:molinaro a ex:Person .
+
+ex:monaco a ex:Place .
+
+ex:monitor a owl:ObjectProperty .
+
+ex:montenegro a ex:Place .
+
+ex:montevideo a ex:Place .
+
+ex:montreux a ex:Place .
+
+ex:morgan a ex:Person .
+
+ex:morgano_tiberio_hotel a ex:Organization .
+
+ex:morley a ex:Person .
+
+ex:morley_von_sternberg a ex:Person .
+
+ex:morocco a ex:Place .
+
+ex:moscow a ex:Place .
+
+ex:moser a ex:Person .
+
+ex:mourne_hotel a ex:Organization .
+
+ex:move a owl:ObjectProperty .
+
+ex:munich a ex:Place .
+
+ex:murray a ex:Person .
+
+ex:murray_fredericks a ex:Person .
+
+ex:mário_zagallo a ex:Person .
+
+ex:nakrani a ex:Person .
+
+ex:nalbant a ex:Person .
+
+ex:name a owl:ObjectProperty .
+
+ex:napoli a ex:Organization .
+
+ex:national_associations a ex:Organization .
+
+ex:national_collegiate_athletic_association a ex:Organization .
+
+ex:national_federation_of_state_high_school_associations a ex:Organization .
+
+ex:national_post a ex:Organization .
+
+ex:national_womens_soccer_league a ex:Organization .
+
+ex:nations a ex:Organization .
+
+ex:nations_league a ex:Organization .
+
+ex:need a owl:ObjectProperty .
+
+ex:nery_pumpido a ex:Person .
+
+ex:netherlands a ex:Place .
+
+ex:new_milton a ex:Place .
+
+ex:new_york a ex:Place .
+
+ex:new_york_times a ex:Place .
+
+ex:new_zealand a ex:Place .
+
+ex:new_zealand_football a ex:Organization .
+
+ex:newcastle a ex:Organization,
+        ex:Place .
+
+ex:newcastle_jets a ex:Organization .
+
+ex:newcastle_united a ex:Organization .
+
+ex:newport a ex:Place .
+
+ex:newry a ex:Place .
+
+ex:newsweek a ex:Organization .
+
+ex:nice a ex:Place .
+
+ex:nicholson a ex:Person .
+
+ex:nick a ex:Person .
+
+ex:nick_xenophon a ex:Person .
+
+ex:nicola_rizzoli a ex:Person .
+
+ex:nicolaj_m a ex:Person .
+
+ex:nicolas_leoz a ex:Person .
+
+ex:nicolas_villalba a ex:Person .
+
+ex:nicolás_leoz a ex:Person .
+
+ex:nigeria a ex:Place .
+
+ex:nigeria_professional_football_league a ex:Organization .
+
+ex:nir a ex:Organization .
+
+ex:nivison a ex:Person .
+
+ex:nor a ex:Place .
+
+ex:north_berwick a ex:Place .
+
+ex:north_korea a ex:Place .
+
+ex:north_macedonia a ex:Place .
+
+ex:northern_counties_hotel a ex:Organization .
+
+ex:northern_ireland a ex:Place .
+
+ex:northern_irelands a ex:Place .
+
+ex:northern_whig a ex:Organization .
+
+ex:norway a ex:Person,
+        ex:Place .
+
+ex:nottingham_journal a ex:Organization .
+
+ex:noumandiez_doué a ex:Person .
+
+ex:npr a ex:Organization .
+
+ex:ny a ex:Place .
+
+ex:nyon a ex:Organization,
+        ex:Place .
+
+ex:néstor_pitana a ex:Person .
+
+ex:oban a ex:Place .
+
+ex:oceania_football_confederation a ex:Organization .
+
+ex:ofc a ex:Organization .
+
+ex:offer a owl:ObjectProperty .
+
+ex:office_of_public_affairs a ex:Organization .
+
+ex:ogden a ex:Person .
+
+ex:oliver a ex:Person .
+
+ex:olympique_lyonnais a ex:Organization,
+        ex:Person .
+
+ex:omani_professional_league a ex:Organization .
+
+ex:operate a owl:ObjectProperty .
+
+ex:optus_sport a ex:Organization .
+
+ex:order a owl:ObjectProperty .
+
+ex:organise a owl:ObjectProperty ;
+    owl:equivalentProperty <http://www.wikidata.org/prop/direct/P664> .
+
+ex:organize a owl:ObjectProperty .
+
+ex:ornstein a ex:Person .
+
+ex:owen a ex:Person .
+
+ex:owen_gibson a ex:Person .
+
+ex:pa_sport a ex:Organization .
+
+ex:pablo a ex:Person .
+
+ex:palace a ex:Organization .
+
+ex:palace_hotel a ex:Organization .
+
+ex:panini a ex:Organization .
+
+ex:panja a ex:Person .
+
+ex:panorama a ex:Organization .
+
+ex:papua_new_guinea_premier_soccer_league a ex:Organization .
+
+ex:paraguay a ex:Place .
+
+ex:paraguayan_primera_división a ex:Organization .
+
+ex:paraná a ex:Place .
+
+ex:paraíba a ex:Place .
+
+ex:paris a ex:Place .
+
+ex:parkhotel_schönbrunn a ex:Organization .
+
+ex:parliament a ex:Organization .
+
+ex:pará a ex:Place .
+
+ex:pass a owl:ObjectProperty .
+
+ex:patrick a ex:Person .
+
+ex:patrik_meyer a ex:Person .
+
+ex:paul a ex:Person .
+
+ex:paul_darby a ex:Person .
+
+ex:pay a owl:ObjectProperty .
+
+ex:pedro_martínez_losa a ex:Person .
+
+ex:pele a ex:Person .
+
+ex:pelé a ex:Person .
+
+ex:pember a ex:Person .
+
+ex:pep a ex:Organization .
+
+ex:percy_m a ex:Person .
+
+ex:perikles a ex:Person .
+
+ex:pernambuco a ex:Place .
+
+ex:persian_gulf_pro_league a ex:Organization .
+
+ex:persuade a owl:ObjectProperty .
+
+ex:persönlichcom a ex:Organization .
+
+ex:peru a ex:Place .
+
+ex:peter a ex:Person .
+
+ex:petition a owl:ObjectProperty .
+
+ex:pgmol a ex:Organization .
+
+ex:phil a ex:Person .
+
+ex:philadelphia a ex:Organization .
+
+ex:philadelphia_union a ex:Organization .
+
+ex:philipp_lahm a ex:Person .
+
+ex:pierluigi_collina a ex:Person .
+
+ex:pierre_delaunay a ex:Person .
+
+ex:pilnick a ex:Person .
+
+ex:pit a owl:ObjectProperty .
+
+ex:pitlochry a ex:Place .
+
+ex:pj a ex:Person .
+
+ex:place a owl:ObjectProperty .
+
+ex:plan a owl:ObjectProperty .
+
+ex:platini a ex:Person .
+
+ex:play a owl:ObjectProperty .
+
+ex:plex a ex:Organization .
+
+ex:pol a ex:Place .
+
+ex:poland a ex:Person,
+        ex:Place .
+
+ex:politico a ex:Organization .
+
+ex:polity_press a ex:Organization .
+
+ex:pooya a ex:Person .
+
+ex:populous a ex:Organization .
+
+ex:porthcawl a ex:Organization,
+        ex:Place .
+
+ex:portpatrick a ex:Place .
+
+ex:portpatrick_hotel a ex:Organization .
+
+ex:portrush a ex:Organization,
+        ex:Place .
+
+ex:portugal a ex:Person,
+        ex:Place .
+
+ex:portuguese_football_federation a ex:Organization .
+
+ex:postrel a ex:Person .
+
+ex:prem a ex:Organization .
+
+ex:premier_league a ex:Organization .
+
+ex:premiership a ex:Organization .
+
+ex:present a owl:ObjectProperty .
+
+ex:presidência_da_república_casa_civil a ex:Organization .
+
+ex:press_association a ex:Organization .
+
+ex:primera_división a ex:Organization .
+
+ex:pro_league a ex:Organization .
+
+ex:produce a owl:ObjectProperty .
+
+ex:propublica_nonprofit_explorer a ex:Organization .
+
+ex:provide a owl:ObjectProperty .
+
+ex:provo_premier_league a ex:Organization .
+
+ex:psv a ex:Organization .
+
+ex:publish a owl:ObjectProperty .
+
+ex:página a ex:Place .
+
+ex:qatar a ex:Place .
+
+ex:qatar_airways a ex:Organization .
+
+ex:qfa a ex:Organization .
+
+ex:qualify a owl:ObjectProperty .
+
+ex:queen_anne_press a ex:Organization .
+
+ex:queens_hotel a ex:Organization .
+
+ex:r1 a ex:Person .
+
+ex:r2 a ex:Person .
+
+ex:rabat a ex:Place .
+
+ex:raci a ex:Person .
+
+ex:rafael_márquez a ex:Person .
+
+ex:rahul a ex:Person .
+
+ex:rbfa a ex:Organization .
+
+ex:re a owl:ObjectProperty .
+
+ex:reach a owl:ObjectProperty .
+
+ex:react a owl:ObjectProperty .
+
+ex:real_madrid a ex:Organization .
+
+ex:real_madrid_cf a ex:Organization .
+
+ex:rebecca a ex:Person .
+
+ex:recognise a owl:ObjectProperty .
+
+ex:recognize a owl:ObjectProperty .
+
+ex:recommend a owl:ObjectProperty .
+
+ex:reconcile a owl:ObjectProperty .
+
+ex:recsportsoccer_statistics_foundation a ex:Organization .
+
+ex:redeem a owl:ObjectProperty .
+
+ex:reds a ex:Organization .
+
+ex:reece a ex:Person .
+
+ex:refereeing_20_project a ex:Organization .
+
+ex:refuse a owl:ObjectProperty .
+
+ex:regan_e a ex:Person .
+
+ex:regard a owl:ObjectProperty .
+
+ex:register a owl:ObjectProperty .
+
+ex:reject a owl:ObjectProperty .
+
+ex:remain a owl:ObjectProperty .
+
+ex:remedy a owl:ObjectProperty .
+
+ex:remove a owl:ObjectProperty .
+
+ex:rename a owl:ObjectProperty .
+
+ex:render a owl:ObjectProperty .
+
+ex:renew a owl:ObjectProperty .
+
+ex:repeat a owl:ObjectProperty .
+
+ex:replace a owl:ObjectProperty .
+
+ex:report a owl:ObjectProperty .
+
+ex:represent a owl:ObjectProperty ;
+    owl:equivalentProperty <http://www.wikidata.org/prop/direct/P1268> .
+
+ex:republic_of_ireland a ex:Place .
+
+ex:require a owl:ObjectProperty .
+
+ex:resign a owl:ObjectProperty .
+
+ex:respond a owl:ObjectProperty .
+
+ex:retrieve a owl:ObjectProperty .
+
+ex:reuters a ex:Organization .
+
+ex:reveal a owl:ObjectProperty .
+
+ex:review a owl:ObjectProperty .
+
+ex:revive a owl:ObjectProperty .
+
+ex:reyes a ex:Person .
+
+ex:rhodes a ex:Person .
+
+ex:riach a ex:Person .
+
+ex:ricardo_teixeira a ex:Person .
+
+ex:richard a ex:Person .
+
+ex:richard_scudamore a ex:Person .
+
+ex:rimet a ex:Organization .
+
+ex:rio_de_janeiro a ex:Place .
+
+ex:rio_grande_do_norte a ex:Place .
+
+ex:rio_grande_do_sul a ex:Place .
+
+ex:roan a ex:Person .
+
+ex:rob a ex:Person .
+
+ex:rob_may a ex:Person .
+
+ex:robert_guérin a ex:Person .
+
+ex:roberto_rosetti a ex:Person .
+
+ex:rock a owl:ObjectProperty .
+
+ex:rock_hotel a ex:Organization .
+
+ex:rocket_league a ex:Organization .
+
+ex:rodolphe_seeldrayers a ex:Person .
+
+ex:roger_corke a ex:Person .
+
+ex:rogers a ex:Person .
+
+ex:romania a ex:Person,
+        ex:Place .
+
+ex:rome a ex:Place .
+
+ex:ronaldo a ex:Person .
+
+ex:ronay a ex:Person .
+
+ex:roraima a ex:Place .
+
+ex:rostrevor a ex:Place .
+
+ex:rottach_egern a ex:Organization .
+
+ex:rou a ex:Person .
+
+ex:routledge a ex:Organization .
+
+ex:royal_exeter_hotel a ex:Organization .
+
+ex:royal_hotel a ex:Organization .
+
+ex:royal_lancaster_hotel a ex:Organization .
+
+ex:royal_york_hotel a ex:Organization .
+
+ex:rra a ex:Organization .
+
+ex:rsssf a ex:Organization .
+
+ex:rte a ex:Organization .
+
+ex:rté_news a ex:Organization .
+
+ex:rugby_school a ex:Organization .
+
+ex:rui_patricio a ex:Person .
+
+ex:ruiz a ex:Person .
+
+ex:rule a owl:ObjectProperty .
+
+ex:rumsby a ex:Person .
+
+ex:run a owl:ObjectProperty .
+
+ex:rus a ex:Place .
+
+ex:russia a ex:Person,
+        ex:Place .
+
+ex:russian_football_union a ex:Organization .
+
+ex:russian_premier_league a ex:Organization .
+
+ex:ruthin a ex:Place .
+
+ex:sachin a ex:Person .
+
+ex:saddam_husseins a ex:Person .
+
+ex:safa a ex:Organization .
+
+ex:saff a ex:Organization .
+
+ex:saj a ex:Person .
+
+ex:saleh_bakhashwin_rw9 a ex:Person .
+
+ex:salman_bin_ibrahim_al_khalifa a ex:Person .
+
+ex:sam a ex:Person .
+
+ex:san_marino a ex:Place .
+
+ex:sanction a owl:ObjectProperty .
+
+ex:sandro a ex:Person .
+
+ex:santa_catarina a ex:Place .
+
+ex:sara_d a ex:Person .
+
+ex:saudi_arabia a ex:Place .
+
+ex:saudi_arabia174 a ex:Place .
+
+ex:save a owl:ObjectProperty .
+
+ex:say a owl:ObjectProperty .
+
+ex:sbs_news a ex:Organization .
+
+ex:sc_braga a ex:Organization .
+
+ex:scarborough a ex:Place .
+
+ex:scarecrow_press a ex:Organization .
+
+ex:schedule a owl:ObjectProperty .
+
+ex:schweizerhof_hotel a ex:Organization .
+
+ex:score a owl:ObjectProperty .
+
+ex:scotland a ex:Place .
+
+ex:scott a ex:Person .
+
+ex:scott_stinson a ex:Person .
+
+ex:scottish_football_association a ex:Organization .
+
+ex:screen a owl:ObjectProperty .
+
+ex:seabank_hotel a ex:Organization .
+
+ex:seal a owl:ObjectProperty .
+
+ex:sean a ex:Person .
+
+ex:search a owl:ObjectProperty .
+
+ex:see a owl:ObjectProperty .
+
+ex:seek a owl:ObjectProperty .
+
+ex:select a owl:ObjectProperty .
+
+ex:seltzer a ex:Person .
+
+ex:senegal a ex:Place .
+
+ex:sengupta a ex:Person .
+
+ex:sepp a ex:Person .
+
+ex:sepp_blatter a ex:Person .
+
+ex:sepp_blatter13 a ex:Person .
+
+ex:sepp_blatter45 a ex:Person .
+
+ex:sepp_blatters a ex:Person .
+
+ex:sepp_maier a ex:Person .
+
+ex:ser a ex:Organization .
+
+ex:serbia a ex:Person,
+        ex:Place .
+
+ex:serbian_fa a ex:Organization .
+
+ex:sergipe a ex:Place .
+
+ex:serie_a a ex:Organization .
+
+ex:serkan a ex:Person .
+
+ex:serve a owl:ObjectProperty .
+
+ex:set a owl:ObjectProperty .
+
+ex:seychelles_premier_league a ex:Organization .
+
+ex:sfa a ex:Organization .
+
+ex:shaftesbury a ex:Place .
+
+ex:shakira a ex:Person .
+
+ex:shamsul_maidin a ex:Person .
+
+ex:shanklin a ex:Place .
+
+ex:share a owl:ObjectProperty .
+
+ex:sheffield_fc a ex:Organization .
+
+ex:show a owl:ObjectProperty .
+
+ex:shrewsbury_and_atcham a ex:Organization .
+
+ex:siddharth a ex:Person .
+
+ex:silvio_gazzaniga a ex:Person .
+
+ex:simon a ex:Person .
+
+ex:simon_barnes a ex:Person .
+
+ex:simon_hill3132 a ex:Person .
+
+ex:simon_hooper a ex:Person .
+
+ex:singapore a ex:Place .
+
+ex:singapore_sports_hub a ex:Organization .
+
+ex:sknfa_premier_league a ex:Organization .
+
+ex:sky_blues a ex:Organization .
+
+ex:sky_sports a ex:Organization .
+
+ex:sky_sports_news a ex:Organization .
+
+ex:sl_benfica a ex:Organization .
+
+ex:slater a ex:Person .
+
+ex:slazenger a ex:Organization .
+
+ex:slieve_donard_hotel a ex:Organization .
+
+ex:slovak_football_association a ex:Organization .
+
+ex:slovakia a ex:Place .
+
+ex:slovenia a ex:Place .
+
+ex:smith a ex:Person .
+
+ex:soccer_and_society a ex:Organization .
+
+ex:soccer_south_bay_referee_association a ex:Organization .
+
+ex:soccersouls a ex:Organization .
+
+ex:solomon_islands_s_league a ex:Organization .
+
+ex:soltani a ex:Person .
+
+ex:solutions_committee a ex:Organization .
+
+ex:sorteo_de_las_competiciones_europeas a ex:Organization .
+
+ex:south_africa a ex:Place .
+
+ex:south_africa48 a ex:Place .
+
+ex:south_korea a ex:Place .
+
+ex:south_sudan_premier_league a ex:Organization .
+
+ex:southampton_fc a ex:Organization .
+
+ex:soviet_union a ex:Place .
+
+ex:spain a ex:Person,
+        ex:Place .
+
+ex:spalding_athletic_library a ex:Organization .
+
+ex:speak a owl:ObjectProperty .
+
+ex:spiegel a ex:Organization .
+
+ex:split a owl:ObjectProperty .
+
+ex:sporting_cp a ex:Organization .
+
+ex:sporting_news a ex:Organization .
+
+ex:sports_arena a ex:Organization .
+
+ex:sports_confederation a ex:Organization .
+
+ex:sports_illustrated a ex:Organization .
+
+ex:sports_pro a ex:Organization .
+
+ex:sports_sun a ex:Organization .
+
+ex:sports_video_group a ex:Organization .
+
+ex:sportspromedia a ex:Organization .
+
+ex:springer a ex:Organization .
+
+ex:spurs a ex:Organization .
+
+ex:sr_yugoslavia a ex:Place .
+
+ex:ss_lazio a ex:Organization .
+
+ex:st_helier a ex:Place .
+
+ex:stadium a owl:ObjectProperty .
+
+ex:stag a owl:ObjectProperty .
+
+ex:stand a owl:ObjectProperty .
+
+ex:stanley_rous a ex:Person .
+
+ex:start a owl:ObjectProperty .
+
+ex:state a ex:Organization,
+        owl:ObjectProperty .
+
+ex:station_hotel a ex:Organization .
+
+ex:step a owl:ObjectProperty .
+
+ex:stephanie a ex:Person .
+
+ex:stephen a ex:Person .
+
+ex:stephen_dobson a ex:Person .
+
+ex:stinson a ex:Person .
+
+ex:stockholm a ex:Place .
+
+ex:stokkermans a ex:Person .
+
+ex:stone a ex:Person .
+
+ex:stop a owl:ObjectProperty .
+
+ex:stream a owl:ObjectProperty .
+
+ex:submit a owl:ObjectProperty .
+
+ex:suggest a owl:ObjectProperty .
+
+ex:sunday_times a ex:Organization .
+
+ex:sunderland a ex:Organization .
+
+ex:sunderland_afc a ex:Organization .
+
+ex:super_cup a ex:Organization .
+
+ex:support a owl:ObjectProperty .
+
+ex:surinam_fa a ex:Organization .
+
+ex:suriname a ex:Place .
+
+ex:suriname_major_league a ex:Organization .
+
+ex:surrey a ex:Place .
+
+ex:suspend a owl:ObjectProperty .
+
+ex:svatora a ex:Person .
+
+ex:sven_golly a ex:Person .
+
+ex:svgff_premier_division a ex:Organization .
+
+ex:svk a ex:Organization .
+
+ex:svn a ex:Organization .
+
+ex:swansea a ex:Place .
+
+ex:swe a ex:Organization .
+
+ex:sweden a ex:Person,
+        ex:Place .
+
+ex:switzerland a ex:Person,
+        ex:Place .
+
+ex:switzerland_italy a ex:Place .
+
+ex:sydney_fc a ex:Organization .
+
+ex:sydney_morning_herald a ex:Organization .
+
+ex:sándor_barcs a ex:Person .
+
+ex:sándor_kocsis a ex:Person .
+
+ex:são_paulo a ex:Place .
+
+ex:søren a ex:Person .
+
+ex:tajik_higher_league a ex:Organization .
+
+ex:take a owl:ObjectProperty .
+
+ex:taplow a ex:Place .
+
+ex:tariq a ex:Person .
+
+ex:tass a ex:Organization .
+
+ex:taylor a ex:Person .
+
+ex:taylor_and_francis a ex:Organization .
+
+ex:teare a ex:Person .
+
+ex:tebas a ex:Person .
+
+ex:techcrunch a ex:Organization .
+
+ex:telegraph a ex:Organization .
+
+ex:tell a owl:ObjectProperty .
+
+ex:terry_whenett a ex:Person .
+
+ex:teófilo_cubillas a ex:Person .
+
+ex:thai_league a ex:Organization .
+
+ex:the_a_league a ex:Organization .
+
+ex:the_asian_football_confederation a ex:Organization .
+
+ex:the_associated_press a ex:Organization .
+
+ex:the_athletic a ex:Organization .
+
+ex:the_bahamas_football_association a ex:Organization .
+
+ex:the_bbc a ex:Organization .
+
+ex:the_british_olympic_association a ex:Organization .
+
+ex:the_caribbean_football_unions a ex:Organization .
+
+ex:the_champions_league a ex:Organization .
+
+ex:the_channel_islands a ex:Place .
+
+ex:the_comité_français_interfédéral a ex:Organization .
+
+ex:the_commonwealth_of_independent_states a ex:Place .
+
+ex:the_confederation_of_african_football a ex:Organization .
+
+ex:the_court_of_arbitration_for_sport a ex:Organization .
+
+ex:the_critic a ex:Organization .
+
+ex:the_czech_republic a ex:Place .
+
+ex:the_daily_telegraph a ex:Organization .
+
+ex:the_disciplinary_committee a ex:Organization .
+
+ex:the_economic_times a ex:Organization .
+
+ex:the_emergency_committee a ex:Organization .
+
+ex:the_english_fa a ex:Organization .
+
+ex:the_english_football_association a ex:Organization .
+
+ex:the_english_premier_league a ex:Organization .
+
+ex:the_ethics_committees a ex:Organization .
+
+ex:the_europa_league a ex:Organization .
+
+ex:the_european_court_of_human_rights a ex:Organization .
+
+ex:the_european_olympic_committees a ex:Organization .
+
+ex:the_fa a ex:Organization .
+
+ex:the_fa_of_england a ex:Organization .
+
+ex:the_federal_republic_of_germany a ex:Place .
+
+ex:the_federal_republic_of_yugoslavia a ex:Place .
+
+ex:the_fifa_congress a ex:Organization .
+
+ex:the_fifa_council a ex:Organization .
+
+ex:the_fifa_council4142 a ex:Organization .
+
+ex:the_fifa_emergency_committee a ex:Organization .
+
+ex:the_fifa_ethics_committee a ex:Organization .
+
+ex:the_fifa_executive_committee a ex:Organization .
+
+ex:the_fifa_mens_world_rankings a ex:Organization .
+
+ex:the_fifa_presidency37 a ex:Organization .
+
+ex:the_fifa_technical_study_group a ex:Organization .
+
+ex:the_fifa_weekly a ex:Organization .
+
+ex:the_finance_committee a ex:Organization .
+
+ex:the_football_association a ex:Organization .
+
+ex:the_football_association_of_montenegro a ex:Organization .
+
+ex:the_football_association_of_serbia a ex:Organization .
+
+ex:the_football_association_of_wales a ex:Organization .
+
+ex:the_football_association_of_yugoslavia a ex:Organization .
+
+ex:the_football_federation a ex:Organization .
+
+ex:the_football_federation_of_the_soviet_union a ex:Organization .
+
+ex:the_french_football_federation a ex:Organization .
+
+ex:the_french_league a ex:Organization .
+
+ex:the_fédération_internationale_de_football_association a ex:Organization .
+
+ex:the_fédération_internationale_de_football_associationa a ex:Organization .
+
+ex:the_german_football_association a ex:Organization .
+
+ex:the_guardian a ex:Organization .
+
+ex:the_heart_of_midlothian_fc a ex:Organization .
+
+ex:the_home_nations a ex:Organization .
+
+ex:the_ifab_fifa a ex:Organization .
+
+ex:the_independent a ex:Organization .
+
+ex:the_international_association_football_board a ex:Organization .
+
+ex:the_international_fa_board a ex:Organization .
+
+ex:the_international_federation_of_association_football a ex:Organization .
+
+ex:the_international_federation_of_football_associations a ex:Organization .
+
+ex:the_international_football_association_board a ex:Organization .
+
+ex:the_international_football_conference a ex:Organization .
+
+ex:the_international_olympic_committee a ex:Organization .
+
+ex:the_irish_fa a ex:Organization .
+
+ex:the_irish_football_association a ex:Organization .
+
+ex:the_irish_free_state a ex:Place .
+
+ex:the_jerusalem_post a ex:Organization .
+
+ex:the_lithuanian_football_federation a ex:Organization .
+
+ex:the_national_federation_of_state_high_school_associations a ex:Organization .
+
+ex:the_national_football_museum a ex:Organization .
+
+ex:the_national_olympic_committee a ex:Organization .
+
+ex:the_national_post a ex:Organization .
+
+ex:the_new_saints a ex:Organization .
+
+ex:the_new_york_times a ex:Organization .
+
+ex:the_observer a ex:Organization .
+
+ex:the_oceania_football_confederation a ex:Organization .
+
+ex:the_oceania_football_confederation38 a ex:Organization .
+
+ex:the_ofc_champions_league a ex:Organization .
+
+ex:the_olympic_council_of_asia a ex:Organization .
+
+ex:the_oregonian a ex:Organization .
+
+ex:the_palestine_mandate a ex:Place .
+
+ex:the_philadelphia_union a ex:Organization .
+
+ex:the_premier_league a ex:Organization .
+
+ex:the_premier_league44 a ex:Organization .
+
+ex:the_real_news_network a ex:Organization .
+
+ex:the_referees_committee a ex:Organization .
+
+ex:the_republic_of_ireland a ex:Place .
+
+ex:the_royal_netherlands_football_association a ex:Organization .
+
+ex:the_royal_spanish_football_federation a ex:Organization .
+
+ex:the_rugby_football_union a ex:Organization .
+
+ex:the_russian_football_union a ex:Organization,
+        ex:Place .
+
+ex:the_saudi_arabian_football_federation a ex:Organization .
+
+ex:the_scottish_fa a ex:Organization .
+
+ex:the_scottish_football_association a ex:Organization .
+
+ex:the_serie_a a ex:Organization .
+
+ex:the_sheffield_football_association a ex:Organization .
+
+ex:the_socialist_federal_republic_of_yugoslavia a ex:Place .
+
+ex:the_soviet_union a ex:Place .
+
+ex:the_stadium_consultancy a ex:Organization .
+
+ex:the_standard_24953 a ex:Organization .
+
+ex:the_state_union_of_serbia_and_montenegro a ex:Place .
+
+ex:the_sunday_times a ex:Organization .
+
+ex:the_surinamese_football_association a ex:Organization .
+
+ex:the_telegraph a ex:Organization .
+
+ex:the_three_tenors a ex:Organization .
+
+ex:the_times a ex:Organization .
+
+ex:the_uefa_champions_league a ex:Organization .
+
+ex:the_uefa_conference_league a ex:Organization .
+
+ex:the_uefa_congress a ex:Organization .
+
+ex:the_uefa_cup a ex:Organization .
+
+ex:the_uefa_europa_conference_league a ex:Organization .
+
+ex:the_uefa_europa_league a ex:Organization .
+
+ex:the_uefa_nations_league a ex:Organization .
+
+ex:the_uefa_womens_champions_league a ex:Organization .
+
+ex:the_uk a ex:Organization .
+
+ex:the_union_des_sociétés_françaises_de_sports_athlétiques a ex:Organization .
+
+ex:the_union_of_european_football_associations a ex:Organization .
+
+ex:the_united_arab_emirates a ex:Place .
+
+ex:the_united_kingdom a ex:Place .
+
+ex:the_united_states a ex:Organization,
+        ex:Place .
+
+ex:the_united_team_of_germany a ex:Organization .
+
+ex:the_university_of_bath a ex:Organization .
+
+ex:the_us_department_of_justice a ex:Organization .
+
+ex:the_verge a ex:Organization .
+
+ex:the_wall_street_journal a ex:Organization .
+
+ex:the_washington_post a ex:Organization .
+
+ex:the_wayback_machine a ex:Organization .
+
+ex:the_welsh_league a ex:Organization .
+
+ex:theo_zwanziger a ex:Person .
+
+ex:theodore_theodoridis a ex:Person .
+
+ex:thierry_henrys a ex:Person .
+
+ex:thomas_lipton a ex:Person .
+
+ex:thomas_müller a ex:Person .
+
+ex:thundridge a ex:Place .
+
+ex:tnt_sports a ex:Organization .
+
+ex:todd_durbin a ex:Person .
+
+ex:togolese_championnat_national a ex:Organization .
+
+ex:tom_dunmore a ex:Person .
+
+ex:tomasz a ex:Person .
+
+ex:torbay_hotel a ex:Organization .
+
+ex:torquay a ex:Place .
+
+ex:tottenham a ex:Organization .
+
+ex:tottenham_fc a ex:Organization .
+
+ex:tottenham_hotspur a ex:Organization .
+
+ex:traffic_group a ex:Organization .
+
+ex:traffic_sports_usa a ex:Organization .
+
+ex:transmit a owl:ObjectProperty .
+
+ex:transparency_international a ex:Organization .
+
+ex:travel a owl:ObjectProperty .
+
+ex:treat a owl:ObjectProperty .
+
+ex:triesman a ex:Person .
+
+ex:troon a ex:Organization .
+
+ex:truevisions a ex:Organization .
+
+ex:trump a ex:Person .
+
+ex:tunisian_ligue_1_ a ex:Organization .
+
+ex:tunisian_womens_championship a ex:Organization .
+
+ex:turin a ex:Place .
+
+ex:turkey a ex:Place .
+
+ex:turnberry a ex:Place .
+
+ex:turnberry_hotel a ex:Organization .
+
+ex:turner a ex:Person .
+
+ex:turner_broadcasting_system_inc a ex:Organization .
+
+ex:uae a ex:Place .
+
+ex:uae_first_division_league a ex:Organization .
+
+ex:uae_presidents_cup a ex:Organization .
+
+ex:uae_pro_league a ex:Organization .
+
+ex:uecl a ex:Organization .
+
+ex:uefa a ex:Organization .
+
+ex:uefa_champions_league a ex:Organization .
+
+ex:uefa_club_competitions_store a ex:Organization .
+
+ex:uefa_conference_league a ex:Organization .
+
+ex:uefa_congress a ex:Organization .
+
+ex:uefa_europa_league a ex:Organization .
+
+ex:uefa_executive_committee a ex:Organization .
+
+ex:uefa_foundation a ex:Organization .
+
+ex:uefa_gaming a ex:Organization .
+
+ex:uefa_national_teams_store a ex:Organization .
+
+ex:uefa_tv a ex:Organization .
+
+ex:uefa_under_19_futsal_championship a ex:Organization .
+
+ex:uefa_womens_euro a ex:Organization .
+
+ex:uefacom a ex:Organization .
+
+ex:uel a ex:Organization .
+
+ex:uganda_premier_league a ex:Organization .
+
+ex:uk a ex:Place .
+
+ex:ukr a ex:Place .
+
+ex:ukraine a ex:Person,
+        ex:Place .
+
+ex:ukrainian_first_league a ex:Organization .
+
+ex:ukrainian_premier_league a ex:Organization .
+
+ex:umut a ex:Person .
+
+ex:umut_umut_gültekin a ex:Person .
+
+ex:un a ex:Organization .
+
+ex:un_general_assembly a ex:Organization .
+
+ex:uncaf a ex:Organization .
+
+ex:uncover a owl:ObjectProperty .
+
+ex:unidad_editorial a ex:Organization .
+
+ex:union a ex:Organization .
+
+ex:union_der_europäischen_fußballverbändec a ex:Organization .
+
+ex:union_des_associations_européennes_de_footballb a ex:Organization .
+
+ex:union_of_european_football_associations a ex:Organization .
+
+ex:united_kingdom a ex:Place .
+
+ex:united_soccer_league a ex:Organization .
+
+ex:united_states a ex:Place .
+
+ex:united_states_soccer_federation_inc a ex:Organization .
+
+ex:unseal a owl:ObjectProperty .
+
+ex:uruguay a ex:Place .
+
+ex:uruguayan_primera_división a ex:Organization .
+
+ex:us a ex:Place .
+
+ex:us_doj a ex:Organization .
+
+ex:usa a ex:Place .
+
+ex:usa_today a ex:Organization .
+
+ex:use a owl:ObjectProperty .
+
+ex:usfsa a ex:Organization .
+
+ex:usk_valley a ex:Place .
+
+ex:usl_league_one a ex:Organization .
+
+ex:ussf a ex:Organization .
+
+ex:ussr a ex:Place .
+
+ex:uzbekistan_super_league a ex:Organization .
+
+ex:valcke a ex:Person .
+
+ex:vanessa_paige a ex:Person .
+
+ex:vanguard a ex:Organization .
+
+ex:var a ex:Organization .
+
+ex:variety a ex:Organization .
+
+ex:vatican_city a ex:Place .
+
+ex:venezuelan_primera_división a ex:Organization .
+
+ex:venice a ex:Place .
+
+ex:venkat a ex:Person .
+
+ex:vff a ex:Organization .
+
+ex:vieli a ex:Person .
+
+ex:vienna a ex:Place .
+
+ex:virginia a ex:Place .
+
+ex:visa a ex:Organization .
+
+ex:vitoria_sc a ex:Organization .
+
+ex:vittorio_pozzo a ex:Person .
+
+ex:vivek a ex:Person .
+
+ex:vote a owl:ObjectProperty .
+
+ex:vox a ex:Organization .
+
+ex:wack a ex:Person .
+
+ex:wales a ex:Organization,
+        ex:Place .
+
+ex:want a owl:ObjectProperty .
+
+ex:warner a ex:Person .
+
+ex:warnermedia a ex:Organization .
+
+ex:warnermedia_international a ex:Organization .
+
+ex:washington_dc a ex:Place .
+
+ex:watch a owl:ObjectProperty .
+
+ex:watchdog a ex:Organization .
+
+ex:webb a ex:Person .
+
+ex:wellington a ex:Place .
+
+ex:wellington_phoenix a ex:Organization .
+
+ex:west_auckland a ex:Place .
+
+ex:west_aucklands a ex:Place .
+
+ex:west_germany a ex:Place .
+
+ex:west_germanys a ex:Place .
+
+ex:west_ham_united a ex:Organization .
+
+ex:white_horse_hotel a ex:Organization .
+
+ex:whittaker a ex:Person .
+
+ex:whyte a ex:Person .
+
+ex:wikipedia a ex:Organization .
+
+ex:will_smith102103 a ex:Person .
+
+ex:willem_ii a ex:Organization,
+        ex:Person .
+
+ex:william_campbell a ex:Person .
+
+ex:williams a ex:Person .
+
+ex:willian a ex:Person .
+
+ex:win a owl:ObjectProperty ;
+    owl:equivalentProperty <http://www.wikidata.org/prop/direct/P166> .
+
+ex:windermere a ex:Place .
+
+ex:winterburn a ex:Person .
+
+ex:wired a ex:Organization .
+
+ex:withdraw a owl:ObjectProperty .
+
+ex:wlf a ex:Organization .
+
+ex:wm a ex:Organization .
+
+ex:wolfgang_overath a ex:Person .
+
+ex:womens_champions_league a ex:Organization .
+
+ex:womens_under_17_championships a ex:Organization .
+
+ex:womens_under_19 a ex:Organization .
+
+ex:wood a ex:Person .
+
+ex:woolfall a ex:Person .
+
+ex:worawi_makudi a ex:Person .
+
+ex:work a owl:ObjectProperty .
+
+ex:working_group_and_contributors a ex:Organization .
+
+ex:world_football a ex:Organization .
+
+ex:wplg a ex:Organization .
+
+ex:wrexham a ex:Place .
+
+ex:wrexham_advertiser a ex:Organization .
+
+ex:wright a ex:Person .
+
+ex:write a owl:ObjectProperty .
+
+ex:xfinity a ex:Organization .
+
+ex:xinhua a ex:Organization .
+
+ex:yahoo a ex:Organization .
+
+ex:yair a ex:Person .
+
+ex:yallop a ex:Person .
+
+ex:yannis a ex:Person .
+
+ex:yazid_bakhashwin_kiileerrz a ex:Person .
+
+ex:yeqin a ex:Person .
+
+ex:young a ex:Person .
+
+ex:youtube a ex:Organization .
+
+ex:yugoslavia a ex:Person,
+        ex:Place .
+
+ex:yugoslavia_fr_yugoslavia a ex:Place .
+
+ex:yugoslaviaserbia a ex:Place .
+
+ex:zagallo a ex:Person .
+
+ex:zagalo a ex:Person .
+
+ex:zermatt a ex:Place .
+
+ex:zhang a ex:Person .
+
+ex:ziegler a ex:Person .
+
+ex:zirin a ex:Person .
+
+ex:zurich a ex:Place .
+
+ex:zvonimir_boban a ex:Person .
+
+ex:związek_polski_piłki_nożnej a ex:Organization .
+
+ex:zürich a ex:Place .
+
+ex:ángel_maría_villar a ex:Person .
+
+ex:österreichische_fußball_bundesliga a ex:Organization .
+
+ex:čeferin a ex:Person .
+
+rdf:type a owl:ObjectProperty .
+
+rdfs:label a owl:ObjectProperty .
+
+<http://www.wikidata.org/entity/Q155> a <http://www.wikidata.org/prop/novalue/P3238>,
+        <http://www.wikidata.org/prop/novalue/P832> .
+
+<http://www.wikidata.org/entity/Q20> a <http://www.wikidata.org/prop/novalue/P3238> .
+
+<http://www.wikidata.org/entity/Q26> a <http://www.wikidata.org/prop/novalue/P163> .
+
+<http://www.wikidata.org/entity/Q35> a <http://www.wikidata.org/prop/novalue/P3238> .
+
+<http://www.wikidata.org/entity/Q38> a <http://www.wikidata.org/prop/novalue/P1451>,
+        <http://www.wikidata.org/prop/novalue/P3238> .
+
+<http://www.wikidata.org/entity/Q45> a <http://www.wikidata.org/prop/novalue/P3238> .
+
+<http://www.wikidata.org/entity/Q801> a <http://www.wikidata.org/prop/novalue/P1451> .
+
+ex:Place a owl:Class ;
+    rdfs:subClassOf <http://schema.org/Place> .
+
+ex:Person a owl:Class ;
+    rdfs:subClassOf <http://schema.org/Person> .
+
+ex:Organization a owl:Class ;
+    rdfs:subClassOf <http://schema.org/Organization> .
+

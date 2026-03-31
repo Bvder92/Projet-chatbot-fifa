@@ -1,0 +1,8 @@
+{
+  "triplets": 19515,
+  "entities": 8936,
+  "relations": 1729,
+  "linked_entities": 35,
+  "new_entities": 15,
+  "aligned_predicates": 8
+}

@@ -1,0 +1,426 @@
+@prefix ex: <http://example.org/fifa/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+ex:al_jazeera owl:sameAs <http://www.wikidata.org/entity/Q13477> .
+
+ex:alan_ferguson owl:sameAs <http://www.wikidata.org/entity/Q100787965> .
+
+ex:algerian_womens_d1_national_championship owl:sameAs <http://www.wikidata.org/entity/Q123907276> .
+
+ex:amos_adamu owl:sameAs <http://www.wikidata.org/entity/Q4747820> .
+
+ex:andrew_jennings owl:sameAs <http://www.wikidata.org/entity/Q4757508> .
+
+ex:andy_anson owl:sameAs <http://www.wikidata.org/entity/Q4760373> .
+
+ex:andy_burnham owl:sameAs <http://www.wikidata.org/entity/Q269909> .
+
+ex:anouma owl:sameAs <http://www.wikidata.org/entity/Q98015061> .
+
+ex:argentina owl:sameAs <http://www.wikidata.org/entity/Q414> .
+
+ex:arthur_drewry owl:sameAs <http://www.wikidata.org/entity/Q312664> .
+
+ex:aruban_division_di_honor owl:sameAs <http://www.wikidata.org/entity/Q511137> .
+
+ex:arup owl:sameAs <http://www.wikidata.org/entity/Q716737> .
+
+ex:asian_football_confederation owl:sameAs <http://www.wikidata.org/entity/Q83276> .
+
+ex:associated_press owl:sameAs <http://www.wikidata.org/entity/Q40469> .
+
+ex:australia owl:sameAs <http://www.wikidata.org/entity/Q408> .
+
+ex:azerbaijan_second_league owl:sameAs <http://www.wikidata.org/entity/Q119575609> .
+
+ex:barbados_premier_league owl:sameAs <http://www.wikidata.org/entity/Q687108> .
+
+ex:bbc_sport owl:sameAs <http://www.wikidata.org/entity/Q552359> .
+
+ex:belgium owl:sameAs <http://www.wikidata.org/entity/Q31> .
+
+ex:bfa_senior_league owl:sameAs <http://www.wikidata.org/entity/Q788588> .
+
+ex:blatter owl:sameAs <http://www.wikidata.org/entity/Q21476697> .
+
+ex:borbély owl:sameAs <http://www.wikidata.org/entity/Q893360> .
+
+ex:brazil owl:sameAs <http://www.wikidata.org/entity/Q155> .
+
+ex:brennan owl:sameAs <http://www.wikidata.org/entity/Q6582834> .
+
+ex:burkinabé_premier_league owl:sameAs <http://www.wikidata.org/entity/Q769090> .
+
+ex:bvifa_national_football_league owl:sameAs <http://www.wikidata.org/entity/Q65410> .
+
+ex:cameroon owl:sameAs <http://www.wikidata.org/entity/Q1009> .
+
+ex:campionato_sammarinese owl:sameAs <http://www.wikidata.org/entity/Q387662> .
+
+ex:canada owl:sameAs <http://www.wikidata.org/entity/Q16> .
+
+ex:cape_verdean_football_championship owl:sameAs <http://www.wikidata.org/entity/Q463663> .
+
+ex:carl_hirschmann owl:sameAs <http://www.wikidata.org/entity/Q1036773> .
+
+ex:cayman_islands_premier_league owl:sameAs <http://www.wikidata.org/entity/Q1023719> .
+
+ex:central_african_republic_league owl:sameAs <http://www.wikidata.org/entity/Q1093405> .
+
+ex:chile owl:sameAs <http://www.wikidata.org/entity/Q298> .
+
+ex:christian_stiegler owl:sameAs <http://www.wikidata.org/entity/Q130773484> .
+
+ex:chuck_blazer owl:sameAs <http://www.wikidata.org/entity/Q1089097> .
+
+ex:colin_smith owl:sameAs <http://www.wikidata.org/entity/Q1755010> .
+
+ex:comoros_premier_league owl:sameAs <http://www.wikidata.org/entity/Q868588> .
+
+ex:comprise owl:equivalentProperty <http://www.wikidata.org/prop/direct/P527> .
+
+ex:concacaf owl:sameAs <http://www.wikidata.org/entity/Q160549> .
+
+ex:confederation_of_african_football owl:sameAs <http://www.wikidata.org/entity/Q168360> .
+
+ex:conmebol owl:sameAs <http://www.wikidata.org/entity/Q58733> .
+
+ex:cornel_borbély owl:sameAs <http://www.wikidata.org/entity/Q24175447> .
+
+ex:council owl:sameAs <http://www.wikidata.org/entity/Q4358176> .
+
+ex:damian_collins owl:sameAs <http://www.wikidata.org/entity/Q290646> .
+
+ex:daniel_burley_woolfall owl:sameAs <http://www.wikidata.org/entity/Q311250> .
+
+ex:darrell_warner owl:sameAs <http://www.wikidata.org/entity/Q124459737> .
+
+ex:daryan_warner owl:sameAs <http://www.wikidata.org/entity/Q61927840> .
+
+ex:dave_zirin owl:sameAs <http://www.wikidata.org/entity/Q5230177> .
+
+ex:david_cameron owl:sameAs <http://www.wikidata.org/entity/Q192> .
+
+ex:david_triesman owl:sameAs <http://www.wikidata.org/entity/Q335601> .
+
+ex:dazn owl:sameAs <http://www.wikidata.org/entity/Q30133334> .
+
+ex:denmark owl:sameAs <http://www.wikidata.org/entity/Q35> .
+
+ex:department_of_justice owl:sameAs <http://www.wikidata.org/entity/Q3550363> .
+
+ex:diego_maradona owl:sameAs <http://www.wikidata.org/entity/Q17515> .
+
+ex:djibouti_premier_league owl:sameAs <http://www.wikidata.org/entity/Q912116> .
+
+ex:dominica_premier_league owl:sameAs <http://www.wikidata.org/entity/Q267785> .
+
+ex:donald_trump owl:sameAs <http://www.wikidata.org/entity/Q22686> .
+
+ex:dons owl:sameAs <http://www.wikidata.org/entity/Q15796130> .
+
+ex:ea_sports owl:sameAs <http://www.wikidata.org/entity/Q869106> .
+
+ex:eckert owl:sameAs <http://www.wikidata.org/entity/Q15807233> .
+
+ex:eleven_sports owl:sameAs <http://www.wikidata.org/entity/Q29562591> .
+
+ex:emergency_committee owl:sameAs <http://www.wikidata.org/entity/Q717200> .
+
+ex:england owl:sameAs <http://www.wikidata.org/entity/Q21> .
+
+ex:ernst_thommen owl:sameAs <http://www.wikidata.org/entity/Q110175625> .
+
+ex:espn owl:sameAs <http://www.wikidata.org/entity/Q217776> .
+
+ex:ethiopian_higher_league owl:sameAs <http://www.wikidata.org/entity/Q55611095> .
+
+ex:eugenio_figueredo owl:sameAs <http://www.wikidata.org/entity/Q13549710> .
+
+ex:executive_committee owl:sameAs <http://www.wikidata.org/entity/Q66545434> .
+
+ex:fifa owl:sameAs <http://www.wikidata.org/entity/Q123463883>,
+        <http://www.wikidata.org/entity/Q253414> .
+
+ex:fifa_congress owl:sameAs <http://www.wikidata.org/entity/Q5425713> .
+
+ex:fifa_ethics_committee owl:sameAs <http://www.wikidata.org/entity/Q25050818> .
+
+ex:found owl:equivalentProperty <http://www.wikidata.org/prop/direct/P571> .
+
+ex:france owl:sameAs <http://www.wikidata.org/entity/Q142> .
+
+ex:frank_lampard owl:sameAs <http://www.wikidata.org/entity/Q41533> .
+
+ex:franz_lambert owl:sameAs <http://www.wikidata.org/entity/Q705560> .
+
+ex:garcia owl:sameAs <http://www.wikidata.org/entity/Q980636> .
+
+ex:germany owl:sameAs <http://www.wikidata.org/entity/Q183> .
+
+ex:gfa_league owl:sameAs <http://www.wikidata.org/entity/Q1007931> .
+
+ex:gfa_premier_league owl:sameAs <http://www.wikidata.org/entity/Q1320341> .
+
+ex:gff_elite_league owl:sameAs <http://www.wikidata.org/entity/Q25044359> .
+
+ex:gianni_infantino owl:sameAs <http://www.wikidata.org/entity/Q124138> .
+
+ex:govern owl:equivalentProperty <http://www.wikidata.org/prop/direct/P748> .
+
+ex:gujarat_super_league owl:sameAs <http://www.wikidata.org/entity/Q125545420> .
+
+ex:guy_smith owl:sameAs <http://www.wikidata.org/entity/Q109700146> .
+
+ex:guérin owl:sameAs <http://www.wikidata.org/entity/Q18549501> .
+
+ex:hans_joachim_eckert owl:sameAs <http://www.wikidata.org/entity/Q23060225> .
+
+ex:harpercollins owl:sameAs <http://www.wikidata.org/entity/Q95149> .
+
+ex:havelange owl:sameAs <http://www.wikidata.org/entity/Q66312001> .
+
+ex:hayatou owl:sameAs <http://www.wikidata.org/entity/Q16859832> .
+
+ex:hold owl:equivalentProperty <http://www.wikidata.org/prop/direct/P664> .
+
+ex:hong_kong owl:sameAs <http://www.wikidata.org/entity/Q8646> .
+
+ex:ii owl:sameAs <http://www.wikidata.org/entity/Q853584> .
+
+ex:include owl:equivalentProperty <http://www.wikidata.org/prop/direct/P527> .
+
+ex:indonesia owl:sameAs <http://www.wikidata.org/entity/Q252> .
+
+ex:infantino owl:sameAs <http://www.wikidata.org/entity/Q22955571> .
+
+ex:international_sport_and_leisure owl:sameAs <http://www.wikidata.org/entity/Q1666928> .
+
+ex:iraq owl:sameAs <http://www.wikidata.org/entity/Q796> .
+
+ex:ireland owl:sameAs <http://www.wikidata.org/entity/Q27> .
+
+ex:israel owl:sameAs <http://www.wikidata.org/entity/Q801> .
+
+ex:issa_hayatou owl:sameAs <http://www.wikidata.org/entity/Q250005> .
+
+ex:italy owl:sameAs <http://www.wikidata.org/entity/Q38> .
+
+ex:ivory_coast owl:sameAs <http://www.wikidata.org/entity/Q1008> .
+
+ex:jack_warner owl:sameAs <http://www.wikidata.org/entity/Q1566430> .
+
+ex:jacques_anouma owl:sameAs <http://www.wikidata.org/entity/Q1460313> .
+
+ex:james_ewing owl:sameAs <http://www.wikidata.org/entity/Q100148045> .
+
+ex:japan owl:sameAs <http://www.wikidata.org/entity/Q17> .
+
+ex:jennings owl:sameAs <http://www.wikidata.org/entity/Q21488855> .
+
+ex:josé_hawilla owl:sameAs <http://www.wikidata.org/entity/Q19994641> .
+
+ex:joão_havelange owl:sameAs <http://www.wikidata.org/entity/Q207358> .
+
+ex:jules_rimet owl:sameAs <http://www.wikidata.org/entity/Q199642> .
+
+ex:jérôme_valcke owl:sameAs <http://www.wikidata.org/entity/Q350917> .
+
+ex:labour owl:sameAs <http://www.wikidata.org/entity/Q9630> .
+
+ex:lebanese_premier_league owl:sameAs <http://www.wikidata.org/entity/Q1189038> .
+
+ex:lebanese_womens_football_league owl:sameAs <http://www.wikidata.org/entity/Q62065302> .
+
+ex:lesotho_premier_league owl:sameAs <http://www.wikidata.org/entity/Q667065> .
+
+ex:london owl:sameAs <http://www.wikidata.org/entity/Q84> .
+
+ex:macau owl:sameAs <http://www.wikidata.org/entity/Q1004486> .
+
+ex:manchester owl:sameAs <http://www.wikidata.org/entity/Q18125> .
+
+ex:marco_villiger owl:sameAs <http://www.wikidata.org/entity/Q65350903> .
+
+ex:mattias_grafström owl:sameAs <http://www.wikidata.org/entity/Q124412063> .
+
+ex:mewatch owl:sameAs <http://www.wikidata.org/entity/Q65063687> .
+
+ex:michael_j_garcia owl:sameAs <http://www.wikidata.org/entity/Q16230586> .
+
+ex:michel_platini owl:sameAs <http://www.wikidata.org/entity/Q4261> .
+
+ex:milton_keynes owl:sameAs <http://www.wikidata.org/entity/Q204234> .
+
+ex:montevideo owl:sameAs <http://www.wikidata.org/entity/Q1335> .
+
+ex:morley_von_sternberg owl:sameAs <http://www.wikidata.org/entity/Q125297993> .
+
+ex:moscow owl:sameAs <http://www.wikidata.org/entity/Q649> .
+
+ex:murray_fredericks owl:sameAs <http://www.wikidata.org/entity/Q94518632> .
+
+ex:netherlands owl:sameAs <http://www.wikidata.org/entity/Q55> .
+
+ex:new_zealand owl:sameAs <http://www.wikidata.org/entity/Q664> .
+
+ex:nicolas_leoz owl:sameAs <http://www.wikidata.org/entity/Q1395848> .
+
+ex:nicolás_leoz owl:sameAs <http://www.wikidata.org/entity/Q1395848> .
+
+ex:northern_ireland owl:sameAs <http://www.wikidata.org/entity/Q26> .
+
+ex:norway owl:sameAs <http://www.wikidata.org/entity/Q20> .
+
+ex:oceania_football_confederation owl:sameAs <http://www.wikidata.org/entity/Q180344> .
+
+ex:olympique_lyonnais owl:sameAs <http://www.wikidata.org/entity/Q704> .
+
+ex:organise owl:equivalentProperty <http://www.wikidata.org/prop/direct/P664> .
+
+ex:panorama owl:sameAs <http://www.wikidata.org/entity/Q41363> .
+
+ex:paris owl:sameAs <http://www.wikidata.org/entity/Q90> .
+
+ex:parliament owl:sameAs <http://www.wikidata.org/entity/Q11010> .
+
+ex:patrik_meyer owl:sameAs <http://www.wikidata.org/entity/Q25692133> .
+
+ex:pelé owl:sameAs <http://www.wikidata.org/entity/Q12897> .
+
+ex:plex owl:sameAs <http://www.wikidata.org/entity/Q7204887> .
+
+ex:populous owl:sameAs <http://www.wikidata.org/entity/Q1082849> .
+
+ex:portugal owl:sameAs <http://www.wikidata.org/entity/Q45> .
+
+ex:provo_premier_league owl:sameAs <http://www.wikidata.org/entity/Q2299651> .
+
+ex:qatar owl:sameAs <http://www.wikidata.org/entity/Q846> .
+
+ex:real_madrid owl:sameAs <http://www.wikidata.org/entity/Q8682> .
+
+ex:real_madrid_cf owl:sameAs <http://www.wikidata.org/entity/Q6362982> .
+
+ex:represent owl:equivalentProperty <http://www.wikidata.org/prop/direct/P1268> .
+
+ex:reuters owl:sameAs <http://www.wikidata.org/entity/Q130879> .
+
+ex:ricardo_teixeira owl:sameAs <http://www.wikidata.org/entity/Q516259> .
+
+ex:rob_may owl:sameAs <http://www.wikidata.org/entity/Q16745470> .
+
+ex:robert_guérin owl:sameAs <http://www.wikidata.org/entity/Q116277> .
+
+ex:rocket_league owl:sameAs <http://www.wikidata.org/entity/Q20031743> .
+
+ex:rodolphe_seeldrayers owl:sameAs <http://www.wikidata.org/entity/Q312662> .
+
+ex:russia owl:sameAs <http://www.wikidata.org/entity/Q159> .
+
+ex:saddam_husseins owl:sameAs <http://www.wikidata.org/entity/Q4271650> .
+
+ex:salman_bin_ibrahim_al_khalifa owl:sameAs <http://www.wikidata.org/entity/Q7405402> .
+
+ex:saudi_arabia owl:sameAs <http://www.wikidata.org/entity/Q851> .
+
+ex:scotland owl:sameAs <http://www.wikidata.org/entity/Q22> .
+
+ex:sepp_blatter owl:sameAs <http://www.wikidata.org/entity/Q483437> .
+
+ex:ser owl:sameAs <http://www.wikidata.org/entity/Q8910> .
+
+ex:seychelles_premier_league owl:sameAs <http://www.wikidata.org/entity/Q248005> .
+
+ex:singapore owl:sameAs <http://www.wikidata.org/entity/Q334> .
+
+ex:sknfa_premier_league owl:sameAs <http://www.wikidata.org/entity/Q2288509> .
+
+ex:sky_sports owl:sameAs <http://www.wikidata.org/entity/Q1340204> .
+
+ex:south_africa owl:sameAs <http://www.wikidata.org/entity/Q258> .
+
+ex:south_sudan_premier_league owl:sameAs <http://www.wikidata.org/entity/Q22080643> .
+
+ex:spain owl:sameAs <http://www.wikidata.org/entity/Q29> .
+
+ex:spalding_athletic_library owl:sameAs <http://www.wikidata.org/entity/Q105359497> .
+
+ex:stanley_rous owl:sameAs <http://www.wikidata.org/entity/Q218270> .
+
+ex:suriname_major_league owl:sameAs <http://www.wikidata.org/entity/Q124856427> .
+
+ex:svgff_premier_division owl:sameAs <http://www.wikidata.org/entity/Q56042896> .
+
+ex:sweden owl:sameAs <http://www.wikidata.org/entity/Q34> .
+
+ex:switzerland owl:sameAs <http://www.wikidata.org/entity/Q39> .
+
+ex:tass owl:sameAs <http://www.wikidata.org/entity/Q223799> .
+
+ex:the_emergency_committee owl:sameAs <http://www.wikidata.org/entity/Q83308367> .
+
+ex:the_ethics_committees owl:sameAs <http://www.wikidata.org/entity/Q58662765> .
+
+ex:the_guardian owl:sameAs <http://www.wikidata.org/entity/Q11148> .
+
+ex:the_national_football_museum owl:sameAs <http://www.wikidata.org/entity/Q129968318> .
+
+ex:the_new_york_times owl:sameAs <http://www.wikidata.org/entity/Q9684> .
+
+ex:the_sunday_times owl:sameAs <http://www.wikidata.org/entity/Q221986> .
+
+ex:the_us_department_of_justice owl:sameAs <http://www.wikidata.org/entity/Q128210337> .
+
+ex:togolese_championnat_national owl:sameAs <http://www.wikidata.org/entity/Q1187730> .
+
+ex:traffic_group owl:sameAs <http://www.wikidata.org/entity/Q7832454> .
+
+ex:traffic_sports_usa owl:sameAs <http://www.wikidata.org/entity/Q7832475> .
+
+ex:triesman owl:sameAs <http://www.wikidata.org/entity/Q56701998> .
+
+ex:truevisions owl:sameAs <http://www.wikidata.org/entity/Q2744306> .
+
+ex:tunisian_womens_championship owl:sameAs <http://www.wikidata.org/entity/Q2952373> .
+
+ex:turkey owl:sameAs <http://www.wikidata.org/entity/Q43> .
+
+ex:uae_presidents_cup owl:sameAs <http://www.wikidata.org/entity/Q2309854> .
+
+ex:uganda_premier_league owl:sameAs <http://www.wikidata.org/entity/Q761083> .
+
+ex:uk owl:sameAs <http://www.wikidata.org/entity/Q8798> .
+
+ex:ukraine owl:sameAs <http://www.wikidata.org/entity/Q212> .
+
+ex:un owl:sameAs <http://www.wikidata.org/entity/Q1065> .
+
+ex:uncaf owl:sameAs <http://www.wikidata.org/entity/Q48841290> .
+
+ex:union_of_european_football_associations owl:sameAs <http://www.wikidata.org/entity/Q35572> .
+
+ex:united_states owl:sameAs <http://www.wikidata.org/entity/Q30> .
+
+ex:usl_league_one owl:sameAs <http://www.wikidata.org/entity/Q30636616> .
+
+ex:venezuelan_primera_división owl:sameAs <http://www.wikidata.org/entity/Q1033339> .
+
+ex:wales owl:sameAs <http://www.wikidata.org/entity/Q25> .
+
+ex:washington_dc owl:sameAs <http://www.wikidata.org/entity/Q61> .
+
+ex:win owl:equivalentProperty <http://www.wikidata.org/prop/direct/P166> .
+
+ex:woolfall owl:sameAs <http://www.wikidata.org/entity/Q64026865> .
+
+ex:worawi_makudi owl:sameAs <http://www.wikidata.org/entity/Q2578077> .
+
+ex:xfinity owl:sameAs <http://www.wikidata.org/entity/Q5151002> .
+
+ex:zirin owl:sameAs <http://www.wikidata.org/entity/Q8072764> .
+
+ex:zurich owl:sameAs <http://www.wikidata.org/entity/Q72> .
+
+ex:zürich owl:sameAs <http://www.wikidata.org/entity/Q72> .
+
