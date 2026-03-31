@@ -1,0 +1,36 @@
+# ─────────────────────────────────────────────
+# Web Mining & Semantics — Project Requirements
+# Python >= 3.9
+# Install: pip install -r requirements.txt
+# ─────────────────────────────────────────────
+
+# ── TD1 : Web Crawling & NER ──────────────────
+trafilatura>=1.6.0
+httpx>=0.24.0
+requests>=2.31.0
+spacy>=3.7.0
+# Model: python -m spacy download en_core_web_sm
+#        python -m spacy download en_core_web_trf
+
+# ── TD4 : Knowledge Base Construction ────────
+rdflib>=6.3.0
+pandas>=2.0.0
+
+# ── TD5 : KGE ────────────────────────────────
+pykeen>=1.10.0
+torch>=2.0.0
+scikit-learn>=1.3.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# ── TD5 Part 1 : SWRL Reasoning ──────────────
+owlready2>=0.46
+
+# ── TD6 : RAG ────────────────────────────────
+# requests already listed above
+
+# ─────────────────────────────────────────────
+# Ollama must be installed separately (not pip)
+# See: https://ollama.com/download
+# ollama pull gemma:2b
+# ─────────────────────────────────────────────
